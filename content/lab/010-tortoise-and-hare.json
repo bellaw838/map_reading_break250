@@ -1,0 +1,74 @@
+{
+  "id": "lab-010-tortoise-and-hare",
+  "title": "The Tortoise and the Hare",
+  "author": "Aesop (translated by George Fyler Townsend)",
+  "year": 1867,
+  "source_url": "https://www.gutenberg.org/files/19994/19994-h/19994-h.htm",
+  "category": "Fable",
+  "difficulty": "Easy",
+  "length_words": 130,
+  "intro": "A very short fable. The whole story is the setup for the one-line moral at the end. Watch how Aesop builds the contrast between the two animals — and notice what the Hare does (and doesn't do) versus the Tortoise. Some words are formal: “assertion” means claim, “assented” means agreed, “wayside” means side of the road, and “fatigue” means tiredness.",
+  "passage": "A HARE one day ridiculed the short feet and slow pace of the Tortoise, who replied, laughing: \"Though you be swift as the wind, I will beat you in a race.\" The Hare, believing her assertion to be simply impossible, assented to the proposal; and they agreed that the Fox should choose the course and fix the goal. On the day appointed for the race the two started together. The Tortoise never for a moment stopped, but went on with a slow but steady pace straight to the end of the course. The Hare, lying down by the wayside, fell fast asleep. At last waking up, and moving as fast as he could, he saw the Tortoise had reached the goal, and was comfortably dozing after her fatigue.\n\nSlow but steady wins the race.",
+  "annotations": [
+    {
+      "start": 25,
+      "end": 69,
+      "category": "structure",
+      "note": "STR: This phrase sets up the central contrast immediately: the Tortoise’s slowness is the trait the fable will reverse into strength."
+    },
+    {
+      "start": 15,
+      "end": 24,
+      "category": "tone",
+      "note": "WC: “Ridiculed” means mocked or made fun of. It is harsher than “teased” and shows the Hare’s contempt."
+    },
+    {
+      "start": 94,
+      "end": 155,
+      "category": "theme",
+      "note": "TH: The Tortoise states the fable’s surprising central claim in advance: speed alone will not decide the race."
+    },
+    {
+      "start": 166,
+      "end": 239,
+      "category": "inference",
+      "note": "INF: “Assertion” means claim, and “simply impossible” shows the Hare thinks the Tortoise’s claim cannot possibly be true. “Assented” means agreed, so he accepts because he cannot imagine losing."
+    },
+    {
+      "start": 373,
+      "end": 453,
+      "category": "evidence",
+      "note": "E: This directly supports the moral: the Tortoise succeeds by moving slowly but steadily and never stopping."
+    },
+    {
+      "start": 489,
+      "end": 542,
+      "category": "structure",
+      "note": "SHIFT: This is the decisive turn: the Hare’s natural speed stops mattering because he stops moving."
+    },
+    {
+      "start": 645,
+      "end": 681,
+      "category": "evidence",
+      "note": "E: This proves the Tortoise rests only after reaching the goal, unlike the Hare who rests before finishing."
+    },
+    {
+      "start": 684,
+      "end": 714,
+      "category": "theme",
+      "note": "TH: The explicit moral states the fable’s theme: consistent effort can defeat greater natural speed."
+    }
+  ],
+  "discussion_prompts": [
+    "The Hare and the Tortoise each take a strategy. Name each in your own words.",
+    "Find a place where Aesop shows the Hare's character without telling you 'he was arrogant.' What's the detail?",
+    "The moral could have been 'Don't be lazy' or 'Hard work wins.' Why does Aesop pick 'Slow but steady'? What's different?",
+    "Where in the story does the outcome become inevitable? Mark the sentence."
+  ],
+  "discussion_answers": [
+    "Hare: rely on natural speed; race in bursts. Tortoise: keep moving without stopping, regardless of pace. The Hare bets on talent; the Tortoise bets on consistency.",
+    "'Ridiculed' (the Hare mocks the Tortoise's body); 'believing her assertion to be simply impossible' (instant overconfidence); 'lying down by the wayside, fell fast asleep' (treats the race as too easy to bother). Every action proves arrogance without the word being used.",
+    "'Don't be lazy' attacks one habit. 'Slow but steady' makes a positive claim about HOW to win — consistency beats bursts. Aesop's version is more useful: it tells you what to DO, not just what to avoid.",
+    "\"The Hare, lying down by the wayside, fell fast asleep.\" This is the decisive structural turn because the Hare abandons motion while the Tortoise’s only strategy is continuous motion."
+  ]
+}

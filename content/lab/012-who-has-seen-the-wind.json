@@ -1,0 +1,74 @@
+{
+  "id": "lab-012-who-has-seen-the-wind",
+  "title": "Who Has Seen the Wind?",
+  "author": "Christina Rossetti",
+  "year": 1872,
+  "source_url": "https://www.gutenberg.org/files/19188/19188-h/19188-h.htm",
+  "category": "Poetry",
+  "difficulty": "Easy",
+  "length_words": 40,
+  "intro": "Two stanzas, eight lines. The poem is almost a riddle — it asks a question, admits the answer is 'no one,' and then tells you how to see what you can't see. Watch how the second stanza mirrors the first with tiny variations.",
+  "passage": "Who has seen the wind?\nNeither I nor you:\nBut when the leaves hang trembling,\nThe wind is passing through.\n\nWho has seen the wind?\nNeither you nor I:\nBut when the trees bow down their heads,\nThe wind is passing by.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 22,
+      "category": "structure",
+      "note": "STR: the opening question is also the title. The poem will answer this question indirectly, by showing the wind's effects rather than the wind itself."
+    },
+    {
+      "start": 23,
+      "end": 41,
+      "category": "evidence",
+      "note": "E: this line directly answers the question. Nobody in the poem has seen the wind, so the rest of the poem must prove the wind through visible effects."
+    },
+    {
+      "start": 42,
+      "end": 76,
+      "category": "inference",
+      "note": "INF: \"Leaves hang trembling\" is the visible clue that lets us infer the invisible wind’s presence."
+    },
+    {
+      "start": 78,
+      "end": 106,
+      "category": "theme",
+      "note": "TH: The poem’s quiet central idea lands here: an unseen force can be known by its visible effects."
+    },
+    {
+      "start": 108,
+      "end": 130,
+      "category": "structure",
+      "note": "STR: second stanza repeats the question — same words, new context. The repetition is the poem's structural form; the learning is in watching what changes underneath."
+    },
+    {
+      "start": 131,
+      "end": 149,
+      "category": "structure",
+      "note": "STR: this mirrors and slightly varies 'Neither I nor you' from stanza 1 — the pronouns swap order. The poem keeps gently shifting its surface under the repetition."
+    },
+    {
+      "start": 159,
+      "end": 189,
+      "category": "structure",
+      "note": "FIG: The trees are personified as if they have heads and can bow. This image supports the inference that we know wind by what it moves."
+    },
+    {
+      "start": 191,
+      "end": 214,
+      "category": "structure",
+      "note": "STR: first stanza says 'passing through'; second stanza says 'passing by.' One small phrase changes, so the poem's repeated structure moves with the wind."
+    }
+  ],
+  "discussion_prompts": [
+    "The poem repeats almost the same words in stanzas 1 and 2 — but not exactly. Find every tiny difference. Why each change?",
+    "Why does Rossetti show leaves trembling and trees bowing instead of only saying \"the wind is there\"?",
+    "What is this poem REALLY about? Just wind, or something bigger? Defend your answer.",
+    "How does the repeated two-stanza structure help the poem teach its idea?"
+  ],
+  "discussion_answers": [
+    "Differences: (a) 'I nor you' → 'you nor I' (pronouns swap); (b) 'leaves hang trembling' → 'trees bow down their heads' (smaller plants → bigger plants; smaller motion → bigger motion); (c) 'passing through' → 'passing by' (direction changes). Each variation makes the wind feel bigger and the world more affected.",
+    "Because the poem’s method is indirect proof: we cannot see wind itself, but we can read its effects in the world.",
+    "Plausible deeper readings: God (an invisible force known only through visible effects); time; emotion; any unseen power. The poem teaches a reading habit — look for what something DOES, not just what it IS. That habit applies far beyond wind.",
+    "The repeated question and denial create a pattern, while the changed effects, from trembling leaves to bowing trees, show the same invisible force becoming knowable in different visible ways."
+  ]
+}

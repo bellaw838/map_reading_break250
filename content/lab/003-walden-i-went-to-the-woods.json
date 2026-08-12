@@ -1,0 +1,74 @@
+{
+  "id": "lab-003-walden-i-went-to-the-woods",
+  "title": "I went to the woods (excerpt from Walden)",
+  "author": "Henry David Thoreau",
+  "year": 1854,
+  "source_url": "https://www.gutenberg.org/files/205/205-h/205-h.htm",
+  "category": "Informational",
+  "difficulty": "Hard",
+  "length_words": 156,
+  "intro": "Thoreau is explaining why he moved to a cabin in the woods. Several words are abstract or old-fashioned: “deliberately” means on purpose, “essential” means most necessary, “resignation” means giving up or accepting defeat, “mean” means low or ugly, and “sublime” means grand or awe-inspiring.",
+  "passage": "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived. I did not wish to live what was not life, living is so dear; nor did I wish to practise resignation, unless it was quite necessary. I wanted to live deep and suck out all the marrow of life, to live so sturdily and Spartan-like as to put to rout all that was not life, to cut a broad swath and shave close, to drive life into a corner, and reduce it to its lowest terms, and, if it proved to be mean, why then to get the whole and genuine meanness of it, and publish its meanness to the world; or if it were sublime, to know it by experience.",
+  "annotations": [
+    {
+      "start": 102,
+      "end": 212,
+      "category": "theme",
+      "note": "CL/MI: This closing purpose names Thoreau’s central aim: learn what life teaches and avoid discovering too late that he had not truly lived."
+    },
+    {
+      "start": 45,
+      "end": 57,
+      "category": "tone",
+      "note": "WC -> TO: “Deliberately” means on purpose, with careful thought. Thoreau wants a chosen life, not an automatic one."
+    },
+    {
+      "start": 73,
+      "end": 100,
+      "category": "tone",
+      "note": "WC: “Essential” means most necessary. Thoreau wants to strip life down to what truly matters."
+    },
+    {
+      "start": 213,
+      "end": 272,
+      "category": "evidence",
+      "note": "E: This proves he is not retreating passively; he values life too much to accept a false version of it."
+    },
+    {
+      "start": 301,
+      "end": 312,
+      "category": "tone",
+      "note": "WC/CON: “Resignation” means giving up or accepting something passively. Thoreau rejects that; he wants to face life actively."
+    },
+    {
+      "start": 345,
+      "end": 583,
+      "category": "structure",
+      "note": "FIG: The stacked metaphors — marrow, Spartan-like, rout, swath, corner — make living deliberately feel active and forceful."
+    },
+    {
+      "start": 589,
+      "end": 728,
+      "category": "structure",
+      "note": "STR: “Mean” here means low, small, or ugly; “sublime” means grand or awe-inspiring. The either/or structure commits Thoreau to accept either result."
+    },
+    {
+      "start": 730,
+      "end": 754,
+      "category": "theme",
+      "note": "MI: The final goal is direct knowledge, not comfort or secondhand belief."
+    }
+  ],
+  "discussion_prompts": [
+    "Underline (mentally) every word Thoreau uses about INTENSITY — 'deliberately,' 'essential,' 'sturdily,' 'Spartan-like.' What does the accumulation tell you about his attitude?",
+    "Find where Thoreau says what his project is NOT. Why distinguish his goal from 'resignation'?",
+    "Why would Thoreau publish life's 'meanness' if that is what he finds, but know the sublime 'by experience'?",
+    "What single word would you pick as the most important in this paragraph? Defend the choice."
+  ],
+  "discussion_answers": [
+    "Thoreau treats his project as serious work, not vacation. The accumulation of 'deliberately,' 'essential,' 'sturdily,' 'Spartan-like' tells you he is going to the woods to LIVE harder, not easier — to engage with life, not retreat from it.",
+    "Because someone might assume retreating to the woods means giving up on regular life. Thoreau rejects that reading explicitly. His goal is the opposite — to engage with life so completely that nothing essential is missed.",
+    "He values honest inquiry over a comforting conclusion. Ugly truth must be faced publicly, while the sublime must be known directly through experience.",
+    "Strong candidates: “deliberately,” “essential,” and “know.” Best argument for “deliberately”: it carries the whole project’s attitude in one word — chosen, careful, intentional. Strong argument for “know”: it names the final goal, which is understanding life directly, not just hearing ideas about it."
+  ]
+}

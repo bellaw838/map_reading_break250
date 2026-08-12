@@ -1,0 +1,38 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+b1,B1.1,topic-vs-main-idea,Topic vs Main Idea,Topic = the subject. Main idea = what the article SAYS about it.,Don't confuse the topic with the main idea. Topic is what the article is ABOUT. Main idea is what the article CLAIMS or EXPLAINS about that topic.,"**Topic = subject. Main idea = what the author says about it.**
+
+A common wrong answer on MAP main-idea questions is a TOPIC word. The student picks ""electric cars"" or ""the Civil War"" or ""recycling."" Those are topics. The main idea is what the article CLAIMS about that subject.
+
+**The single-sentence test:**
+
+If you can finish this sentence, you have a main idea:
+
+> The article is making the claim/explanation that ___.
+
+If you can only fill in a single word or short phrase, you have a topic.
+
+**Examples:**
+
+- *Topic:* electric cars → *Main idea:* electric cars are now competitive with gas cars on price, but charging infrastructure remains the biggest obstacle.
+- *Topic:* recycling → *Main idea:* recycling helps less than people think because most plastics aren't actually recycled — reducing use is more effective.
+- *Topic:* urban heat islands → *Main idea:* cities can reduce dangerous heat by adding shade, reflective surfaces, and green space.
+
+A main idea has a subject AND a claim.
+
+**Where the main idea usually lives:**
+
+- In a short informational article: usually in the first or last paragraph.
+- In a longer article: often stated in the introduction and restated in the conclusion.
+- In opinion pieces: often the THESIS — a full sentence the author defends throughout.
+
+If you can't find a sentence that captures the article's claim, build one by combining what each paragraph contributes.
+
+**The test trap:**
+
+Wrong-answer choices include:
+
+- A topic word (""climate change"") that's true but too narrow.
+- A detail that's true but doesn't capture the whole article.
+- A claim that's too sweeping for what the article actually says.
+
+The right answer is the SENTENCE-shaped claim that captures the whole article — no bigger, no smaller.","Main-idea questions are constant on MAP informational reading. The ""topic instead of main idea"" wrong answer is one of the highest-frequency traps.",Picking a topic word when the question asks for the main idea.,Picking a true detail that doesn't capture the whole article.,Picking a claim that's bigger than what the article actually argues.,Electric cars,Topic — not main idea.,"A subject word. To become a main idea, it needs a claim about what the article is saying about electric cars.","Electric cars are now competitive with gas cars on price, but charging infrastructure remains the biggest obstacle.",Main idea — claim about the topic.,Subject + claim + supported by the article. Main-idea shape.,Most plastics in the recycling bin are not actually recycled.,"A SUPPORTING DETAIL, not a main idea.","True and important, but doesn't capture the whole article. The main idea uses this detail in service of a larger claim about recycling's effectiveness.",Reducing consumption is more effective than recycling for shrinking plastic waste.,Main idea.,"Captures the article's argument: the comparison between reducing and recycling, with a verdict.",N/A,N/A,N/A

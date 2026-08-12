@@ -1,0 +1,37 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+b1,B1.2,main-idea-vs-detail,Main Idea vs Supporting Detail,A detail proves the main idea. It isn't the main idea itself.,A supporting detail is true and from the text — but it's only one piece of the argument. The main idea is the BIGGER claim the detail supports.,"**A detail is what proves the main idea — not what the main idea IS.**
+
+This is the second-most-common main-idea trap (after ""picking a topic""). The student picks an answer that is TRUE in the article, but the truth is only a detail — one piece of evidence — not the article's overall claim.
+
+**The relationship:**
+
+- **Main idea** — the article's overall claim. One sentence that captures the whole.
+- **Supporting detail** — a fact, statistic, example, or quote that PROVES the main idea.
+
+**A main idea has many supporting details. A supporting detail has one main idea above it.**
+
+**Example:**
+
+Article: *Honeybee populations have declined since 2006. Pesticides are a major cause. Habitat loss has reduced their food sources. The Varroa mite has spread widely. Researchers say solving this requires addressing all three at once.*
+
+- *Main idea:* Bee decline has multiple causes that must be addressed together.
+- *Supporting details:*
+  - Pesticides are a major cause.
+  - Habitat loss has reduced food sources.
+  - Varroa mites have spread.
+  - Researchers recommend addressing all three.
+
+Each detail supports the main idea. None of them IS the main idea.
+
+**Test trap to watch for:**
+
+When a question asks for the main idea, the wrong answers will often be TRUE details from the article. They feel right because you saw them in the text. The discrimination move:
+
+> Ask: does this answer capture the WHOLE article, or just one piece of it?
+
+If it captures only one piece, it's a detail. If it captures the whole, it's the main idea.
+
+**Two-part check:**
+
+1. Is the answer TRUE in the article? (If not, eliminate.)
+2. Does it capture the WHOLE article, or just part? (If just part, it's a detail.)",Detail-vs-main-idea is the trap students fall into when they remember reading something true and pick that as the main idea. Tests reward students who check whether the answer covers the whole article.,"Picking a true detail instead of the main idea (because the detail ""felt right"" from reading).","Failing to check whether the answer covers the whole article, or just one paragraph.",Treating the most specific true statement as the main idea (specific is usually a detail; main idea is broader).,"Article main idea: ""Bee decline has multiple causes that must be addressed together."" Statement: ""Pesticides are a major cause of bee decline.""","Supporting detail, not main idea.",True and in the article. But it's only ONE of the article's causes — it doesn't capture the article's overall claim about addressing causes together.,"Same article. Statement: ""Researchers say no single fix will solve the bee decline.""",Closer to the main idea but still a detail.,This is the article's recommendation — important — but the main idea includes the WHY (multiple causes). The detail captures one half.,"Article main idea: ""Returning to the moon is now a political and economic challenge, not a technological one."" Statement: ""Apollo rockets could be rebuilt today.""",Supporting detail.,"True — and important. It supports the main idea (""the ability still exists"") but doesn't capture the article's whole claim about why we haven't returned.","Article main idea: ""Public libraries are becoming community centers, not just book repositories."" Statement: ""Libraries provide internet access.""",Supporting detail.,True. One of several services the article lists. The main idea names the PATTERN; the detail is one example.,N/A,N/A,N/A

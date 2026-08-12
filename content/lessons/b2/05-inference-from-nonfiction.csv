@@ -1,0 +1,32 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+b2,B2.5,inference-from-nonfiction,Inference from Nonfiction Cues,"Drawing conclusions from data, claims, and stated facts in informational text.","Nonfiction inference uses different clues than literary inference. Look at the data, the claims, the structure, and what the author chose to emphasize — not character actions or dialogue.","**Nonfiction inference is a distinct skill.**
+
+In literary text, inference uses clues like character actions, dialogue, scene details. In nonfiction, the clues are different:
+
+- **Stated facts and data** — what the numbers add up to that the author doesn't say outright.
+- **The author's choices** — what was emphasized, what was downplayed, what was included or omitted.
+- **Word choice** — hedging verbs (""suggests,"" ""claims"") vs. demonstration verbs (""proves,"" ""shows"").
+- **Structure** — what the author put first, what was buried, what was used as a counterpoint.
+- **What's missing** — sometimes the strongest inference comes from what the author DIDN'T say. Omissions support only tentative inferences when the text gives a reason the missing information should have appeared.
+
+**Example:**
+
+Article: *The new policy was adopted in 2018. By 2023, complaint volume had risen 40 percent. The policy's authors have so far declined to comment.*
+
+Stated facts: policy in 2018, complaints up 40%, authors decline to comment.
+
+Reasonable inferences:
+- The policy may not be working as intended (rising complaints suggest a problem).
+- The authors may be unwilling to defend the policy publicly (declining comment is unusual for a successful policy).
+
+These aren't STATED in the article. They're INFERRED from the cues — the data trend plus the absence of comment.
+
+**Where students go wrong:**
+
+1. **Treating nonfiction inference like literary inference** — looking for character actions when the clues are data, structure, and word choice.
+2. **Over-inferring** — same trap as literary, but worse because data feels solid. A 40% rise in complaints might suggest the policy is failing — or it might suggest people are more aware of it.
+3. **Speculation** — guessing causes the data doesn't support.
+
+**The rule:**
+
+The smallest claim the data and stated facts support is usually the right inference. Stay close to what the text actually shows.",Nonfiction inference is a MAP-tested skill that's distinct from literary inference. Plateaued readers often miss this when the question demands inference from FACTS instead of from CHARACTER.,Treating nonfiction inference like literary inference — looking for character clues when the clues are data.,Over-inferring from data — assuming causation when the data only supports correlation.,Missing the importance of what the author CHOSE not to say — omissions can be inference clues too.,"Article: ""The new policy was adopted in 2018. By 2023, complaints had risen 40%. The policy's authors have declined to comment."" Inference: The policy may not be working as intended; the authors may be unwilling to defend it publicly.",Reasonable nonfiction inference.,"Two clues — the data trend AND the silence — combine for an inference the text doesn't state outright. Small, defensible.",Same article. Inference: The policy is a complete failure that has ruined people's lives.,Over-inference.,"The data supports SOME problem (rising complaints, no defense). It doesn't support ""complete failure"" or ""ruined lives."" Stay close to what's actually there.","Article: ""A study compared two groups of students. Group A studied with music. Group B studied in silence. Group B scored higher on the test."" Inference: Music while studying may distract from learning.",Reasonable inference.,"The data SUPPORTS this small claim. Note ""may"" — that's the right hedge. Going further (""music ruins learning"") would over-infer.","Article: ""In her 30-page report on the program, the director devoted 28 pages to its successes and 2 pages to its challenges."" Inference: The report may be presenting the program more favorably than fully balanced.",Inference from STRUCTURE — what the author chose to emphasize.,"The structural cue (28 vs 2 pages) supports an inference about emphasis. The reader is reading the author's choices, not just the content.",N/A,N/A,N/A

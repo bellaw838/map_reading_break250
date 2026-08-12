@@ -1,0 +1,45 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+c3,C3.2,tone-vocabulary,Tone Vocabulary,The lexicon that lets you name the attitude you see.,"You can sense an attitude without being able to name it. Tone vocabulary is the lexicon — skeptical, nostalgic, dismissive, urgent, reflective — that lets you label what you see correctly.","**Spotting tone is one skill. Naming it is another.**
+
+Plateaued readers often sense the attitude in a passage but pick the wrong tone word because they don't have a wide enough lexicon. The fix is direct: **learn the words advanced readers use to name tone.**
+
+**A working tone-word lexicon:**
+
+*Approving / positive attitudes:*
+- **admiring** — full of praise
+- **approving** — endorsing, supporting
+- **sympathetic** — feeling for, on the side of
+- **hopeful** — expecting good
+- **respectful** — showing high regard
+
+*Disapproving / negative attitudes:*
+- **critical** — pointing out flaws
+- **skeptical** — doubting (often quietly)
+- **dismissive** — brushing aside as unimportant
+- **scornful** — openly contemptuous
+- **alarmed** — concerned about danger
+
+*Emotionally weighted:*
+- **urgent** — time-pressured, demanding action
+- **passionate** — intense, deeply felt
+- **bitter** — angry over past wrongs
+- **despairing** — without hope
+
+*Reflective stances:*
+- **nostalgic** — fondly looking back
+- **reflective** — thoughtful, considering
+- **wry** — drily humorous, knowing
+- **ironic** — saying one thing, meaning another
+- **cautious** — careful, hedged
+
+**The naming move:**
+
+When you've spotted the attitude:
+
+1. Is it positive, negative, or neither?
+2. How strong is it — quiet doubt, or open contempt?
+3. Is it looking forward (urgent, hopeful) or backward (nostalgic, regretful)?
+
+That triangulation usually lands you on the right word.
+
+**Watch out for near-synonyms.** *Skeptical* (quiet doubt) ≠ *scornful* (open contempt). *Reflective* (thoughtful) ≠ *nostalgic* (longing). Get specific.","A wide tone-word lexicon converts vague intuition (""the author seems annoyed"") into precise answers (""the author is dismissive""). MAP questions reward precision.",Spotting the attitude correctly but picking a tone word that's too strong or too weak.,"Defaulting to ""neutral"" or ""negative"" because no more specific word comes to mind.",Mixing up emotionally similar tone words (skeptical vs scornful; reflective vs nostalgic).,"The reviewer praised every detail of the performance, calling it the most moving production of the season.",Admiring,"Strong praise, no qualifications — that's admiring, not just approving.","The official brushed off the complaints with a quick ""that's just how it is,"" then changed the subject.",Dismissive,Brushing off and changing the subject is the action of dismissing — treating concerns as unimportant.,"The author wonders, fifty years later, whether the small town she grew up in still has the same bakery on the corner.",Nostalgic,Looking back fondly at a specific small detail from the past = nostalgic.,"The report warns that without action this month, the damage may be irreversible.",Urgent,"Time pressure (""this month"") + warning of irreversible damage = urgent.","The professor doubted, though politely, whether the new method was as effective as advertised.",Skeptical,"""Doubted"" + ""politely"" = quiet doubt, not open contempt. That's skeptical, not scornful."

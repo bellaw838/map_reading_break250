@@ -1,0 +1,22 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+c1,C1.2,connotation-from-context,Connotation from Context,"Figuring out whether a word's feeling is positive, negative, or neutral when the word is new to you.","Even if you don't know a word, the sentence around it usually tells you whether it's a compliment, an insult, or neutral.","**Connotation is the feeling a word carries** beyond its plain definition.
+
+Two words can mean roughly the same thing but feel very different:
+
+- *thin* (neutral) vs *skinny* (often negative) vs *slender* (positive)
+- *cheap* (negative) vs *affordable* (positive) vs *low-cost* (neutral)
+- *stubborn* (negative) vs *determined* (positive) vs *fixed* (neutral)
+
+You don't have to memorize every word's connotation. You can decode it from context.
+
+**Three context signals for connotation:**
+
+- **Word neighbors.** Is the word sitting next to praise-words or insult-words? ""She was **stubborn** and refused to listen"" → negative. ""She was **stubborn** in defending what was right"" → positive.
+- **The author's stance.** If the author is criticizing someone, words around the unknown one are likely negative. If celebrating, likely positive.
+- **The outcome described.** ""His **frugal** habits saved the family thousands"" — the good outcome tells you frugal is being framed positively. ""His **frugal** habits embarrassed his guests"" — the bad outcome tells you it's being framed negatively.
+
+**Connotation can flip with context.** ""Aggressive"" is negative for a person but neutral or positive for a salesperson's strategy. ""Ambitious"" is positive in a job interview but can be negative in a story about someone hurting friends to get ahead. The text frames it.
+
+**Decoding rule:**
+
+> Look at the words near the unknown one. Are they praise or criticism? Is the outcome described good or bad? That tells you the connotation the author is using.",Connotation reveals tone and author's purpose. A student who can read connotation from context can read tone even when the specific words are unfamiliar.,Treating connotation as a memorized property of a word instead of something context reveals.,Assuming a word is negative because the surrounding topic is negative.,Missing how the same word can carry different connotations in different texts.,She was stubborn and refused to listen even when her own family begged her to reconsider.,Negative,"""Refused to listen"" and ""even when her own family begged"" are negative neighbors. Stubborn here means inflexible in a bad way.",She was stubborn in defending the truth when everyone else gave up.,Positive,"""Defending the truth"" and ""when everyone else gave up"" are praise neighbors. Stubborn here means principled — same word, opposite connotation.",His frugal habits saved the family thousands of dollars over the years.,Positive,"The good outcome (""saved the family thousands"") frames frugal as wise.",His frugal habits embarrassed his guests when he refused to spend on a proper meal.,Negative,"The bad outcome (""embarrassed his guests"") frames the same word frugal as cheap or stingy.",The smell from the river was acrid and made everyone cover their faces.,Negative,"""Made everyone cover their faces"" tells you acrid is unpleasant — even if you don't know the word means harsh / bitter."

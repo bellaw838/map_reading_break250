@@ -1,0 +1,37 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+b2,B2.1,evidence-traceable,Evidence Must Be Traceable to the Text,"You can explain in your own words, but you must be able to point to the exact words that prove it.","Evidence is the SPECIFIC WORDS in the text that prove your answer. You can paraphrase to explain, but you must be able to point back to the exact text.","**Evidence is locatable.**
+
+A common test failure: a student writes an answer that is correct in spirit but can't point to the words in the text that prove it. On evidence questions, that fails.
+
+**The rule:**
+
+You can explain in your own words, but you must be able to point to the **exact words in the text** that prove your answer.
+
+**Two valid moves:**
+
+1. **Quote** — copy the relevant words directly.
+2. **Locate** — say which paragraph (or sentence) contains the proof, and what specific phrase carries it.
+
+What's NOT valid: vague gestures like ""it says somewhere"" or paraphrases with no anchor.
+
+**Why this skill matters on tests:**
+
+MAP and similar tests often ask:
+
+- *""Which sentence best supports the answer?""*
+- *""Which part of the passage proves...?""*
+- *""What evidence in the passage shows...?""*
+
+For these questions, the right answer is a specific phrase or sentence from the text. Paraphrases — even correct ones — usually aren't the right answer.
+
+**The discipline:**
+
+Whenever you make a claim about a passage, ask:
+
+> What exact words in the text could I point to as proof?
+
+If the answer is ""I just know,"" you don't have evidence yet. Find the words.
+
+**Common trap:**
+
+A wrong-answer choice will be TRUE about the passage but won't be the BEST evidence. Look for the answer that is most directly supportive — the most specific, most locatable phrase.",Evidence-traceability is foundational for advanced reading. Plateaued students often summarize the right answer but can't point to the proof — and lose points for it.,Summarizing the right idea without being able to point to specific words in the text.,"Confusing vague gesture (""it talks about that"") with locating evidence.",Picking a paraphrase when the question asks for the exact words from the passage.,"Question: Which words from the article prove that the author thinks the policy worked? Student answer: ""The author thinks the policy is good.""",Not evidence — a paraphrase without text anchor.,"The student's claim might be correct, but evidence requires pointing to the SPECIFIC WORDS that prove it. Without a quote or locatable phrase, this isn't evidence.","Same question. Student answer: ""In paragraph 3, the author writes 'the new rule has produced clear gains.'""",Strong evidence — direct quote with location.,Locates the paragraph AND quotes the specific phrase. Anyone reading the passage can verify this exact wording supports the claim.,"Question: Which detail supports the inference that the company is hiding financial trouble? Student answer: ""The company is struggling.""","Not evidence — a paraphrase, not a locatable detail.","A summary isn't evidence. The student needs to point to a specific text detail (e.g., ""they announced layoffs in the third quarter"") that supports the inference.","Same question. Student answer: ""The text mentions the layoffs in paragraph 4 and the missed earnings target in paragraph 5.""","Strong evidence — multiple specific details, each locatable.","Two specific details, both locatable. Each supports the inference. Multiple traceable details make the answer stronger.",N/A,N/A,N/A

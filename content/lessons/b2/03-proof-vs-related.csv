@@ -1,0 +1,35 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+b2,B2.3,proof-vs-related,Proof vs Related Information,Related-but-not-proven is the #1 advanced-reader trap.,"An answer can be related to the topic and even true, yet still NOT prove the specific claim. Look for the answer that actually proves the question's claim — not just one that's on the same topic.","**Related ≠ proven.**
+
+The single most common advanced-reader trap on MAP and similar tests is this: wrong answers that **sound connected** to the question but don't actually **prove** the claim being asked about.
+
+**Example:**
+
+Article: *Many U.S. cities have invested in bike lanes over the past decade. In cities that added more than 100 miles of protected bike lanes, both bicycle commuting and bicycle safety improved.*
+
+Question: *Which sentence best supports the claim that protected bike lanes improve bicycle safety?*
+
+Wrong-but-tempting: *""Many U.S. cities have invested in bike lanes over the past decade.""*
+
+That's RELATED. It's about bike lanes. But it doesn't prove the SAFETY claim. The right answer is the specific sentence about safety improving in cities with protected lanes.
+
+**The test:**
+
+For each answer choice, ask:
+
+> Does this answer specifically prove the claim the question is asking about, or is it just on the same topic?
+
+**Related answers feel right because:**
+
+- They're true (in the text).
+- They're on the right topic.
+- The reader recognizes them.
+
+But they don't satisfy the specific question. The discipline is to ask: *does this answer prove the EXACT claim?*
+
+**Two-step discrimination:**
+
+1. Eliminate any answer that's false or outside the text.
+2. Of the remaining true answers, pick the one that DIRECTLY proves the question's specific claim — not the ones that are just on-topic.
+
+**This is the highest-leverage skill for breaking through the 240–250 plateau.** Plateaued readers can usually eliminate obvious wrong answers but get caught between two TRUE answers — one that proves, one that's just related.",Proof-vs-related is the #1 trap on advanced evidence questions. Mastering this single skill is one of the highest-leverage moves for breaking 250.,Picking an answer that's TRUE but doesn't prove the specific claim — the related-but-not-proven trap.,"Failing to check whether the answer directly addresses the question's CLAIM, not just its TOPIC.",Getting caught between two true answers without using the proof-specificity test.,"Question: Which sentence best supports the claim that protected bike lanes improve SAFETY? Wrong-tempting answer: ""Many U.S. cities have invested in bike lanes.""",Related but doesn't prove. The claim is about safety; this answer is about investment.,"True and on the right topic. But the question asks for proof of SAFETY, and this sentence doesn't address safety. Related ≠ proven.","Same question. Better answer: ""In cities that added more than 100 miles of protected bike lanes, bicycle safety improved.""",Direct proof. Names protected bike lanes AND links them to safety improving.,This is the exact claim the question asks about. Topic match + claim match = proof.,"Question: Which detail best supports that the new policy increased school attendance? Wrong-tempting: ""The new policy was introduced last September.""",Related but doesn't prove.,"True but only about WHEN the policy started, not whether it worked. The question is about attendance — this answer doesn't address it.","Same question. Better answer: ""School attendance rose 12 percent in the year after the new policy took effect.""",Direct proof.,Names attendance AND links it to the policy. The specific claim the question asks about.,N/A,N/A,N/A

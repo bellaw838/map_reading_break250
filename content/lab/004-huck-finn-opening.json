@@ -1,0 +1,68 @@
+{
+  "id": "lab-004-huck-finn-opening",
+  "title": "Opening of The Adventures of Huckleberry Finn",
+  "author": "Mark Twain",
+  "year": 1884,
+  "source_url": "https://www.gutenberg.org/files/76/76-h/76-h.htm",
+  "category": "Literary",
+  "difficulty": "Medium",
+  "length_words": 152,
+  "intro": "Huck is the narrator, and Twain writes his voice in dialect: a spoken, regional form of English. The nonstandard grammar is intentional. It shows Huck’s background and voice, but it does not mean he is unintelligent. Watch how Huck sounds casual while also noticing complicated things about truth and lying.",
+  "passage": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly — Tom's Aunt Polly, she is — and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 23,
+      "category": "inference",
+      "note": "POV: Huck addresses the reader directly, creating an informal first-person voice from the first words."
+    },
+    {
+      "start": 24,
+      "end": 45,
+      "category": "tone",
+      "note": "WC -> POV: “Without you have read” means “unless you have read.” Twain writes Huck’s dialect to make his spoken voice feel real and to show his limited formal schooling."
+    },
+    {
+      "start": 124,
+      "end": 192,
+      "category": "inference",
+      "note": "POV/INF: \"Mainly\" qualifies the truth claim, so we infer Huck treats truth as partial and slippery."
+    },
+    {
+      "start": 193,
+      "end": 259,
+      "category": "theme",
+      "note": "TH: “Stretchers” means exaggerations, or parts of a story stretched beyond exact truth. The truth-versus-stretching problem is introduced immediately; the novel will keep testing that boundary."
+    },
+    {
+      "start": 277,
+      "end": 326,
+      "category": "inference",
+      "note": "INF: Huck’s claim that nearly everyone lies suggests a cynical worldview for a child."
+    },
+    {
+      "start": 369,
+      "end": 382,
+      "category": "inference",
+      "note": "INF: \"Maybe\" is a hedge; Huck is careful enough to qualify even one of his exceptions."
+    },
+    {
+      "start": 488,
+      "end": 556,
+      "category": "structure",
+      "note": "STR: The return to \"true book\" and \"stretchers\" mimics oral storytelling and reinforces the truth/stretching pattern."
+    }
+  ],
+  "discussion_prompts": [
+    "Twain uses dialect phrases like “without you have read” and “I never seen.” What does this show about Huck’s voice and background? What does Huck notice that shows he is still thoughtful?",
+    "Huck says Mr. Twain 'told the truth, mainly.' What does the word 'mainly' do here? What's Huck implying about Twain?",
+    "Identify one place where Huck reveals his character without directly stating anything about himself. What does the detail reveal?",
+    "The paragraph circles back to 'a true book, with some stretchers.' Why does Twain have Huck repeat the point?"
+  ],
+  "discussion_answers": [
+    "Huck speaks in dialect and has limited formal schooling, but he is not stupid. His grammar tells us about his background and voice. His careful comments about “truth,” “mainly,” and “stretchers” show that he notices complicated things.",
+    "It quietly undermines the claim. 'He told the truth, mainly' = he told the truth most of the time but not always. Huck is implying Twain is partly a liar — which is funny, because Huck is the character Twain invented to say so.",
+    "Many options: 'or maybe Mary' shows hesitation and careful weighing; 'I never seen anybody but lied' shows a cynical worldview for a child; 'told the truth, mainly' shows Huck notices partial truth. Any of these reveals Huck's mind without him describing himself.",
+    "Real people repeat themselves when they speak. Twain is mimicking spoken storytelling, not polished prose — so the circling back is part of the voice. It also reinforces the book's central tension: truth vs. stretching."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "lab-011-lion-and-mouse",
+  "title": "The Lion and the Mouse",
+  "author": "Aesop (translated by George Fyler Townsend)",
+  "year": 1867,
+  "source_url": "https://www.gutenberg.org/files/19994/19994-h/19994-h.htm",
+  "category": "Fable",
+  "difficulty": "Easy",
+  "length_words": 145,
+  "intro": "Two scenes. In the first the Lion spares the Mouse; in the second the Mouse saves the Lion. Watch how Aesop sets up a debt in scene one and pays it off in scene two — and how the Mouse's last speech delivers the moral inside the story itself. Some words are formal or old-fashioned: “entreated” means begged, “spare” means let live, “gnawed” means chewed, and “confer benefits” means help or give something good.",
+  "passage": "A LION was awakened from sleep by a Mouse running over his face. Rising up angrily, he caught him and was about to kill him, when the Mouse piteously entreated, saying: \"If you would only spare my life, I would be sure to repay your kindness.\" The Lion laughed and let him go.\n\nIt happened shortly after this that the Lion was caught by some hunters, who bound him by strong ropes to the ground. The Mouse, recognizing his roar, came and gnawed the rope with his teeth, and set him free, exclaiming:\n\n\"You ridiculed the idea of my ever being able to help you, not expecting to receive from me any repayment of your favor; now you know that it is possible for even a Mouse to confer benefits on a Lion.\"",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 63,
+      "category": "structure",
+      "note": "STR: The opening creates the size-and-power contrast that the fable will later reverse: large Lion, tiny Mouse."
+    },
+    {
+      "start": 65,
+      "end": 82,
+      "category": "tone",
+      "note": "WC: \"Angrily\" establishes danger and shows the Lion’s first impulse is violent power."
+    },
+    {
+      "start": 169,
+      "end": 243,
+      "category": "evidence",
+      "note": "E: “Spare my life” means “let me live.” The Mouse promises to repay the Lion’s kindness, setting up what scene two will fulfill."
+    },
+    {
+      "start": 244,
+      "end": 276,
+      "category": "inference",
+      "note": "INF: The Lion laughs because he thinks the tiny Mouse could never help him. That mistake is what the fable will reverse."
+    },
+    {
+      "start": 278,
+      "end": 308,
+      "category": "structure",
+      "note": "SHIFT: This compact transition begins scene two, where the power situation will reverse."
+    },
+    {
+      "start": 327,
+      "end": 380,
+      "category": "evidence",
+      "note": "E: This proves the Lion’s reversal of fortune: the powerful animal is now trapped and helpless."
+    },
+    {
+      "start": 429,
+      "end": 486,
+      "category": "evidence",
+      "note": "E: The Mouse fulfills the earlier promise through concrete action: teeth, rope, freedom."
+    },
+    {
+      "start": 501,
+      "end": 558,
+      "category": "evidence",
+      "note": "E: The Mouse names the Lion’s earlier mistake, proving that the rescue directly answers the Lion’s ridicule."
+    },
+    {
+      "start": 640,
+      "end": 700,
+      "category": "theme",
+      "note": "TH: “Confer benefits on” means help or do good for. The Mouse states the moral: even someone small and weak can help someone great and powerful."
+    }
+  ],
+  "discussion_prompts": [
+    "Most fables end with a moral told by the narrator. Here the Mouse speaks the moral inside the story. What does this change?",
+    "The Lion laughs at the Mouse's promise. Why does Aesop include this detail? What would be lost without it?",
+    "Find the parallel between scene 1 and scene 2. Who is helpless in each? What does the structure tell you?",
+    "Compare 'The Lion and the Mouse' to 'The Boy Who Cried Wolf.' Both are fables — how is the moral delivered differently?"
+  ],
+  "discussion_answers": [
+    "It feels EARNED instead of preached. A narrator declaring a moral keeps the lesson outside the story; the Mouse saying it makes the lesson part of the action. The character who proved the claim gets to make the claim.",
+    "The laughter establishes the SCALE of the lesson. If the Lion had been polite or neutral, the reversal would feel small. The laughter makes him wrong in a specific way — proud — which the rescue then humbles. Without the laugh, the moral has no target.",
+    "Scene 1: Mouse is helpless, Lion has the power to spare or kill. Scene 2: Lion is helpless, Mouse has the power to free or leave. The roles invert exactly. The structural symmetry IS the moral — power changes hands.",
+    "Boy Who Cried Wolf states the moral as a separate sentence ('There is no believing a liar…'). Lion and Mouse puts the moral inside the Mouse's dialogue. Same genre, two different placements — one narrator-led, one character-led."
+  ]
+}

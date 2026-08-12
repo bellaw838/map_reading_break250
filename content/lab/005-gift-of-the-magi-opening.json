@@ -1,0 +1,74 @@
+{
+  "id": "lab-005-gift-of-the-magi-opening",
+  "title": "Opening of \"The Gift of the Magi\"",
+  "author": "O. Henry (William Sydney Porter)",
+  "year": 1905,
+  "source_url": "https://www.gutenberg.org/files/7256/7256-h/7256-h.htm",
+  "category": "Literary",
+  "difficulty": "Medium",
+  "length_words": 305,
+  "intro": "A young wife counts her money on Christmas Eve. Watch how O. Henry builds tone through tiny, specific details: the exact amount, the pennies, the cheap furnished flat, and Della’s embarrassment while bargaining. Some words are old-fashioned: “parsimony” means extreme saving, and “mendicancy” means begging.",
+  "passage": "One dollar and eighty-seven cents. That was all. And sixty cents of it was in pennies. Pennies saved one and two at a time by bulldozing the grocer and the vegetable man and the butcher until one's cheeks burned with the silent imputation of parsimony that such close dealing implied. Three times Della counted it. One dollar and eighty-seven cents. And the next day would be Christmas.\n\nThere was clearly nothing left to do but flop down on the shabby little couch and howl. So Della did it. Which instigates the moral reflection that life is made up of sobs, sniffles, and smiles, with sniffles predominating.\n\nWhile the mistress of the home is gradually subsiding from the first stage to the second, take a look at the home. A furnished flat at $8 per week. It did not exactly beggar description, but it certainly had that word on the lookout for the mendicancy squad.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 86,
+      "category": "tone",
+      "note": "TO/WC: The exact count creates a sympathetic but unsentimental tone; the narrator notices scarcity precisely."
+    },
+    {
+      "start": 87,
+      "end": 185,
+      "category": "evidence",
+      "note": "E: These concrete actions prove poverty without naming it: tiny savings, daily haggling, and ordinary food sellers."
+    },
+    {
+      "start": 198,
+      "end": 251,
+      "category": "inference",
+      "note": "INF: “Imputation” means accusation, and “parsimony” means extreme cheapness. Della feels silently accused of being cheap, even though she is bargaining because she has almost no money."
+    },
+    {
+      "start": 285,
+      "end": 314,
+      "category": "inference",
+      "note": "INF: Counting three times suggests anxiety and a hope that the total might somehow change."
+    },
+    {
+      "start": 315,
+      "end": 386,
+      "category": "structure",
+      "note": "PF/STR: The tiny amount beside Christmas creates the central problem and sets up the sacrifice plot."
+    },
+    {
+      "start": 388,
+      "end": 475,
+      "category": "tone",
+      "note": "WC -> TO: \"Flop,\" \"shabby,\" and \"howl\" make Della’s sadness comic without mocking her."
+    },
+    {
+      "start": 536,
+      "end": 611,
+      "category": "theme",
+      "note": "TH: The narrator turns Della’s small crisis into a general claim about life’s mixture of sadness and joy."
+    },
+    {
+      "start": 728,
+      "end": 871,
+      "category": "tone",
+      "note": "WC -> TO: “Beggar description” plays on the phrase “beggars description,” meaning hard to describe. “Mendicancy” means begging. The fancy wording makes the poverty sound both comic and painful."
+    }
+  ],
+  "discussion_prompts": [
+    "The opening sentence is just five words. Why is 'One dollar and eighty-seven cents' a strong way to open a short story?",
+    "Find a place where O. Henry shows you how poor the couple is WITHOUT using the word 'poor.' How does the detail work?",
+    "The narrator says 'life is made up of sobs, sniffles, and smiles, with sniffles predominating.' Is this a theme statement, or just a joke? Defend your answer.",
+    "How does O. Henry's tone change between paragraphs 1 and 3? What stays the same?"
+  ],
+  "discussion_answers": [
+    "Specific and small. Five words = scarcity in form, not just content. The exact amount ('eighty-seven cents,' not 'a little money') makes the reader feel the precision of poverty. And it raises a question: what does someone with $1.87 DO?",
+    "Examples: “sixty cents of it was in pennies” shows savings in the smallest possible coin; “bulldozing the grocer and the vegetable man and the butcher” shows daily haggling; “silent imputation of parsimony” means Della feels blamed for being cheap, even though the real problem is poverty.",
+    "Both. It is funny because it confidently generalizes from one woman's bad afternoon. It is also a real claim the narrator suggests: life leans toward small sadnesses, even when smiles remain. The narrator can mock and mean it at the same time.",
+    "Paragraph 1: precise, matter-of-fact (Della counting). Paragraph 3: dry, almost legalistic ('mendicancy squad'). What stays the same: warmth — O. Henry never mocks Della herself, only the situation. The narrator is on her side throughout."
+  ]
+}

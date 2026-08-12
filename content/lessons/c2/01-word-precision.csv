@@ -1,0 +1,24 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+c2,C2.1,word-precision,Word Precision,Telling near-synonyms apart.,"Near-synonyms aren't interchangeable. ""Suggests"" is weaker than ""proves."" ""Reluctant"" is hesitating; ""unwilling"" is refusing. The author's choice signals something.","**Words that look the same aren't always the same.**
+
+Advanced readers know that English has many words that look like synonyms but carry **different shades of meaning**. When an author chooses one over another, they're signaling something.
+
+**Common pairs that look interchangeable but aren't:**
+
+- *suggests* vs *proves* — suggests hints; proves demonstrates with certainty.
+- *implies* vs *states* — implies hints indirectly; states says directly.
+- *claims* vs *proves* — claims = asserts (not yet shown); proves = demonstrates.
+- *concedes* vs *admits* — concedes is usually in argument; admits is more general.
+- *reluctant* vs *unwilling* — reluctant = hesitating; unwilling = refusing.
+- *ambiguous* vs *unclear* — ambiguous = has multiple possible meanings; unclear = hard to understand.
+- *requires* vs *needs* — requires = mandatory; needs = useful or necessary.
+- *contributes* vs *causes* — contributes = adds to; causes = produces directly.
+- *substantial* vs *significant* — substantial = large in size; significant = important in effect.
+
+**Why this matters on tests:**
+
+A test question might ask whether the author *proves* or just *suggests* something. If you read those words as the same, you'll miss the question. Authors are careful with these distinctions — readers should be too.
+
+**The discrimination move:**
+
+Read the sentence and ask: *how certain is the author?* *How strong is the claim?* *Is the action mandatory or just preferred?* The author chose the precise word; you have to read at the same precision.",Plateaued readers often see near-synonyms as interchangeable. They're not — and MAP questions exploit that.,Treating near-synonyms as fully interchangeable.,"Missing the certainty signal in a hedge verb (""suggests"" or ""claims"") versus a demonstration verb (""proves"" or ""shows"").","Mixing up size words (""substantial"") with importance words (""significant"").",The data suggests the policy works.,Suggests = hints; the data doesn't prove it.,"If the author had wanted to claim proof, they would have said ""proves"" or ""shows."" ""Suggests"" hedges.","She was reluctant to leave, but she eventually agreed.","Reluctant = hesitant, not refusing.","If she were unwilling, she wouldn't have agreed. Reluctant means she resisted at first but came around.",The instructions were ambiguous — they could be read two different ways.,Ambiguous = has multiple possible meanings.,"If the instructions were merely unclear (hard to understand), the writer wouldn't specify ""two different ways.""",He conceded that his original argument had been flawed.,Conceded = admitted (in an argument context).,"""Conceded"" is the word used in debate and argument when someone gives ground. ""Admitted"" would work but loses the argument context.",The traffic plan contributes to congestion but is not the only cause.,Contributes = adds to (one of several causes).,"If the plan CAUSED the congestion alone, the sentence would say ""causes."" ""Contributes"" signals it's one factor among many."

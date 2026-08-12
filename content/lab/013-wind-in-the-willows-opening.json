@@ -1,0 +1,74 @@
+{
+  "id": "lab-013-wind-in-the-willows-opening",
+  "title": "Opening of The Wind in the Willows",
+  "author": "Kenneth Grahame",
+  "year": 1908,
+  "source_url": "https://www.gutenberg.org/files/289/289-h/289-h.htm",
+  "category": "Literary",
+  "difficulty": "Easy",
+  "length_words": 140,
+  "intro": "The novel opens while Mole is spring-cleaning. Watch how Grahame uses sensory details: brooms, dusters, dust in the throat, whitewash, an aching back. Then spring enters the passage and makes Mole restless. “Divine discontent” means a powerful, almost magical restlessness.",
+  "passage": "The Mole had been working very hard all the morning, spring-cleaning his little home. First with brooms, then with dusters; then on ladders and steps and chairs, with a brush and a pail of whitewash; till he had dust in his throat and eyes, and splashes of whitewash all over his black fur, and an aching back and weary arms. Spring was moving in the air above and in the earth below and around him, penetrating even his dark and lowly little house with its spirit of divine discontent and longing. It was small wonder, then, that he suddenly flung down his brush on the floor, said \"Bother!\" and \"O blow!\" and also \"Hang spring-cleaning!\" and bolted out of the house without even waiting to put on his coat.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 51,
+      "category": "structure",
+      "note": "STR: The passage opens mid-action instead of with background, immediately placing the reader inside the Mole’s labor."
+    },
+    {
+      "start": 86,
+      "end": 198,
+      "category": "evidence",
+      "note": "E: This list of tools and tasks proves the opening claim that the Mole has been working hard."
+    },
+    {
+      "start": 200,
+      "end": 324,
+      "category": "tone",
+      "note": "WC: The piled-up sensory details make the Mole’s exhaustion concrete without simply saying \"he was tired.\""
+    },
+    {
+      "start": 326,
+      "end": 398,
+      "category": "structure",
+      "note": "SHIFT: The focus pivots from indoor chores to the larger force of spring moving through the world around him."
+    },
+    {
+      "start": 454,
+      "end": 497,
+      "category": "theme",
+      "note": "TH/WC: “Divine discontent and longing” means a deep restlessness that feels bigger than ordinary boredom. Spring makes Mole feel that staying inside is no longer enough."
+    },
+    {
+      "start": 499,
+      "end": 563,
+      "category": "structure",
+      "note": "STR: \"It was small wonder, then\" makes the action feel like cause and effect: spring’s pressure explains the Mole’s sudden rebellion."
+    },
+    {
+      "start": 583,
+      "end": 639,
+      "category": "tone",
+      "note": "WC: “Bother,” “O blow,” and “Hang spring-cleaning” are mild, old-fashioned complaints, like saying “Ugh,” “Oh no,” or “Forget spring-cleaning!”"
+    },
+    {
+      "start": 644,
+      "end": 707,
+      "category": "inference",
+      "note": "INF: “Bolted” means rushed out suddenly. Leaving without his coat shows how powerful the pull of spring is; careful Mole forgets ordinary caution."
+    }
+  ],
+  "discussion_prompts": [
+    "The Mole's exclamations are 'Bother!' 'O blow!' 'Hang spring-cleaning!' What kind of character do these phrases reveal?",
+    "Find the sentence where the focus shifts from the Mole's chores to the outside world. How does that sentence change the scale of the passage?",
+    "Grahame writes 'divine discontent and longing.' What does this phrase mean in context? Why these adjectives?",
+    "The Mole leaves without his coat. Why is this small detail the most important in the passage?"
+  ],
+  "discussion_answers": [
+    "Mild, polite, slightly old-fashioned — even his swears are tame. The Mole is house-proud, careful, the kind of creature whose worst word is 'Bother!' That tells you what kind of book this will be: comic, warm, never violent.",
+    "The sentence begins \"Spring was moving in the air above...\" Before it, the focus is tools, dust, and the Mole’s body; after it, spring becomes a larger force surrounding and entering his home.",
+    "A holy restlessness. 'Divine' suggests the urge comes from somewhere larger than the Mole himself; 'discontent' names the restlessness; 'longing' adds direction (toward something, not just away from something). Together the phrase makes spring feel like a calling.",
+    "Because it proves the strength of the urge without naming it. A careful, indoor creature LEAVES HIS COAT BEHIND. Grahame never writes 'he was overwhelmed' — the abandoned coat tells you exactly that."
+  ]
+}

@@ -1,0 +1,31 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+a2,A2.3,inference-vs-stated-fact,Inference vs Stated Fact,"If the text says it, it's not an inference.","An inference is a conclusion the text SUGGESTS without saying. If the answer is just what the story explicitly states, it's a fact — not an inference. Read the question carefully.","**Inference is what the text SUGGESTS — not what it STATES.**
+
+A common trap: a question asks for an inference, and the student picks a true statement from the text — but the text already SAID it. That's a stated fact, not an inference.
+
+Inference means **going one step beyond** what the text says — using a clue from the text to reach a conclusion the text doesn't say outright.
+
+**The test:**
+
+> Is this answer DIRECTLY in the text, or do I have to use a clue plus reasoning to reach it?
+
+- Directly stated = a fact.
+- Reached through clue + reasoning = an inference.
+
+**Example:**
+
+Text: *""Mia checked the clock for the third time and tapped her pencil. The room was quiet except for the hum of the radiator.""*
+
+Question: *""Which of the following can be inferred?""*
+
+- *Wrong answer choice:* ""The radiator hums."" — STATED. The text says this directly.
+- *Right answer choice:* ""Mia is anxious about something."" — INFERRED. The text doesn't say ""Mia is anxious."" The reader has to use the clock-checking and pencil-tapping as clues.
+
+**Watch for these question wordings:**
+
+- ""Which of the following can be **inferred** from the passage?"" — looking for something not stated.
+- ""The passage **suggests** that..."" — looking for an inference.
+- ""It can be **concluded** that..."" — usually inference.
+- ""The passage **states** that..."" — looking for a directly stated fact.
+
+If the question asks for an inference, throw out any answer that's directly quoted or paraphrased from the text. Look for the one that requires a clue plus reasoning.","MAP frequently asks ""which can be inferred?"" and includes wrong answers that are TRUE but STATED. Students who don't make the inference/fact distinction lose these points.",Picking a directly stated fact when the question asks for an inference.,"Missing the question's wording (""infer,"" ""suggest,"" ""conclude"") that signals an inference is wanted.",Thinking that an answer that's TRUE in the text is automatically the correct inference.,"Text: ""Mia checked the clock for the third time and tapped her pencil. The room was quiet except for the hum of the radiator."" Question: Which of the following can be INFERRED?","Mia is anxious about something. (NOT ""the radiator hums."")","""The radiator hums"" is stated. An inference requires reasoning from a clue — Mia's behavior gives the clue; ""anxious"" is the conclusion.","Text: ""The boy hadn't eaten since breakfast. He stared at the menu for a long time before finally ordering a glass of water."" Question: Which can be INFERRED?",The boy may not have money for food.,The text states he hasn't eaten and that he ordered only water. The INFERENCE — that he may lack money — uses those clues to reach a conclusion the text doesn't state outright.,"Text: ""It had rained for three days. The river was higher than anyone could remember."" Question: Which can be INFERRED?",Flooding may happen if the rain continues.,The text states the rain and the high river. The INFERENCE uses those facts to reach a conclusion the text doesn't state — that flooding is a risk.,"Text: ""Anna walked her brother to school every morning that fall."" Question: Which is a STATED FACT, not an inference?",Anna walked her brother to school in the fall.,"Directly stated — no clue plus reasoning needed. An inference WOULD be: ""Anna's brother was likely younger or new to the school"" — that's reached by reasoning.",N/A,N/A,N/A

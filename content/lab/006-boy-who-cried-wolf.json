@@ -1,0 +1,68 @@
+{
+  "id": "lab-006-boy-who-cried-wolf",
+  "title": "The Boy Who Cried Wolf",
+  "author": "Aesop (translated by George Fyler Townsend)",
+  "year": 1867,
+  "source_url": "https://www.gutenberg.org/files/19994/19994-h/19994-h.htm",
+  "category": "Fable",
+  "difficulty": "Easy",
+  "length_words": 155,
+  "intro": "A fable is a very short story with a moral at the end. Notice how Aesop builds the pattern — the boy cries wolf, neighbors respond, the boy laughs — and then breaks it. The structure of REPETITION followed by a TURN is what makes the lesson land. Some words are old-fashioned: “Pray” means please, “heed” means attention, “rendered assistance” means gave help, and “lacerated” means tore badly.",
+  "passage": "A SHEPHERD-BOY, who watched a flock of sheep near a village, brought out the villagers three or four times by crying out, \"Wolf! Wolf!\" and when his neighbors came to help him, laughed at them for their pains.\n\nThe Wolf, however, did truly come at last. The Shepherd-boy, now really alarmed, shouted in an agony of terror: \"Pray, do come and help me; the Wolf is killing the sheep\"; but no one paid any heed to his cries, nor rendered any assistance. The Wolf, having no cause of fear, at his leisure lacerated or destroyed the whole flock.\n\nThere is no believing a liar, even when he speaks the truth.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 175,
+      "category": "structure",
+      "note": "STR: “For their pains” means “for their trouble.” The opening establishes a repeated pattern: the boy cries wolf, neighbors come to help, and he laughs at their effort."
+    },
+    {
+      "start": 177,
+      "end": 208,
+      "category": "inference",
+      "note": "INF: The boy's laughter lets us infer that he enjoys the trick. His character is revealed through action, not direct explanation."
+    },
+    {
+      "start": 211,
+      "end": 253,
+      "category": "structure",
+      "note": "SHIFT: \"However\" marks the structural pivot: the repeated false-alarm pattern breaks because this time the wolf is real."
+    },
+    {
+      "start": 272,
+      "end": 321,
+      "category": "tone",
+      "note": "WC: “Pray” here means “please.” “Really alarmed” and “agony of terror” intensify the boy’s fear and contrast with his earlier playful false cries."
+    },
+    {
+      "start": 383,
+      "end": 450,
+      "category": "evidence",
+      "note": "E: “No one paid any heed” means no one paid attention. “Nor rendered any assistance” means no one helped. This is the direct consequence of the boy’s repeated lies."
+    },
+    {
+      "start": 486,
+      "end": 500,
+      "category": "tone",
+      "note": "WC: “At his leisure” makes the wolf’s destruction feel calm and merciless; “lacerated” means tore badly. The old-fashioned word makes the ending feel harsh and final."
+    },
+    {
+      "start": 542,
+      "end": 602,
+      "category": "theme",
+      "note": "TH: The explicit moral is not just \"do not lie\"; it is that repeated lies destroy credibility even when the liar later tells the truth."
+    }
+  ],
+  "discussion_prompts": [
+    "Find the structural turn in the story. What single word marks it? Why does Aesop choose THAT word?",
+    "The story doesn't say WHY the neighbors don't come the third time. Why not? What does Aesop trust the reader to infer?",
+    "The phrase 'at his leisure' (about the Wolf) is one of the bleakest in the story. Why?",
+    "Compare the moral at the end to a simpler version: 'Don't lie.' Why does Aesop choose the more complicated formulation?"
+  ],
+  "discussion_answers": [
+    "'However.' It signals a contradiction is coming: the pattern (false alarms, neighbors come) is about to break. The word 'however' tells the reader 'this time is different' before the sentence finishes.",
+    "Because the cause is obvious — the prior lies. Aesop trusts the reader to infer it. Spelling out 'the neighbors had stopped believing him' would be condescending and would slow the fable.",
+    "It means the wolf isn't even in a hurry. No tension, no struggle — the boy's crisis is just the wolf's quiet meal. The phrase makes the boy's mistake feel total: the consequences happen calmly, like the universe doesn't care.",
+    "A simpler 'Don't lie' names the bad action. Aesop's version explains the lasting consequence: a liar damages trust so badly that even true warnings may not be believed."
+  ]
+}

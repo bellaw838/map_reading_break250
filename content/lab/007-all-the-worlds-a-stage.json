@@ -1,0 +1,80 @@
+{
+  "id": "lab-007-all-the-worlds-a-stage",
+  "title": "All the world's a stage (As You Like It)",
+  "author": "William Shakespeare",
+  "year": 1599,
+  "source_url": "https://www.gutenberg.org/cache/epub/1786/pg1786.txt",
+  "category": "Poetry",
+  "difficulty": "Hard",
+  "length_words": 209,
+  "intro": "Jaques’ monologue from As You Like It. Shakespeare’s wording is old-fashioned, so make a quick decode pass first: players = actors, parts = roles, seven ages = seven life stages, and sans = without. Some phrases name old objects or roles, but the main idea is clear: one master metaphor traces human life from birth to helpless old age.",
+  "passage": "All the world's a stage,\nAnd all the men and women merely players;\nThey have their exits and their entrances,\nAnd one man in his time plays many parts,\nHis acts being seven ages. At first, the infant,\nMewling and puking in the nurse's arms.\nThen the whining school-boy, with his satchel\nAnd shining morning face, creeping like snail\nUnwillingly to school. And then the lover,\nSighing like furnace, with a woeful ballad\nMade to his mistress' eyebrow. Then a soldier,\nFull of strange oaths and bearded like the pard,\nJealous in honour, sudden and quick in quarrel,\nSeeking the bubble reputation\nEven in the cannon's mouth. And then the justice,\nIn fair round belly with good capon lined,\nWith eyes severe and beard of formal cut,\nFull of wise saws and modern instances;\nAnd so he plays his part. The sixth age shifts\nInto the lean and slipper'd pantaloon,\nWith spectacles on nose and pouch on side;\nHis youthful hose, well saved, a world too wide\nFor his shrunk shank; and his big manly voice,\nTurning again toward childish treble, pipes\nAnd whistles in his sound. Last scene of all,\nThat ends this strange eventful history,\nIs second childishness and mere oblivion,\nSans teeth, sans eyes, sans taste, sans everything.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 23,
+      "category": "structure",
+      "note": "FIG -> TH: this is the master metaphor (world = stage, people = actors). The figurative move carries the central idea that human life follows roles and stages. Everything in the monologue grows from this comparison."
+    },
+    {
+      "start": 152,
+      "end": 177,
+      "category": "structure",
+      "note": "STR: this phrase sets up the structural map of the speech. Shakespeare announces that he will trace seven stages — and then he does, in order."
+    },
+    {
+      "start": 201,
+      "end": 239,
+      "category": "tone",
+      "note": "WC -> TO: Age 1, infancy. “Mewling” means crying or whimpering, and “puking” is bluntly physical. The diction is comically harsh, so the tone refuses to romanticize the start of life."
+    },
+    {
+      "start": 313,
+      "end": 354,
+      "category": "structure",
+      "note": "FIG/WC -> TO: The simile \"creeping like snail\" makes the schoolboy’s reluctance visible and comic."
+    },
+    {
+      "start": 376,
+      "end": 418,
+      "category": "structure",
+      "note": "FIG -> TO: \"Sighing like furnace\" exaggerates the lover’s emotion, creating a gently mocking tone."
+    },
+    {
+      "start": 563,
+      "end": 619,
+      "category": "structure",
+      "note": "FIG/WC -> TH: \"Bubble reputation\" pictures honor as fragile and empty. The image supports the theme that people risk real danger for temporary public status."
+    },
+    {
+      "start": 643,
+      "end": 684,
+      "category": "tone",
+      "note": "WC -> TO: Age 5, the justice. “Capon” means a fattened chicken, so his “belly with good capon lined” means he is well-fed. The food detail makes his dignity comic, creating a satirical but comfortable tone."
+    },
+    {
+      "start": 928,
+      "end": 965,
+      "category": "inference",
+      "note": "INF: Age 6, the old man. “Hose” are close-fitting leg coverings, and “shank” means leg. We infer physical decline because clothes from his youth are now far too wide for his thin legs."
+    },
+    {
+      "start": 1165,
+      "end": 1216,
+      "category": "structure",
+      "note": "STR -> TO: Age 7, oblivion. “Sans” means “without,” so the ending means without teeth, without eyes, without taste, without everything. The four-fold repetition is anaphora, and the structure lands the tragic finality with rhythm."
+    }
+  ],
+  "discussion_prompts": [
+    "The whole monologue grows from one metaphor. State that metaphor in your own words. Why is it powerful enough to support 28 lines?",
+    "Track Shakespeare's tone across the seven ages. Where does it shift from comic to serious? What single phrase marks the shift?",
+    "Why does Shakespeare end with “sans teeth, sans eyes, sans taste, sans everything” — meaning “without teeth, without eyes, without taste, without everything” — instead of a more abstract statement about death?",
+    "Pick the age you find most vivid. What specific words make it work?"
+  ],
+  "discussion_answers": [
+    "The world is a theatre; people are actors playing fixed roles. The metaphor works for 28 lines because it can absorb every kind of human life — infant, schoolboy, lover, soldier, judge, old man, dying — and treat each as a 'part' in the same play.",
+    "The shift begins around the sixth age and becomes unmistakable at \"Last scene of all.\" Up through the justice, the tone is mostly comic or satirical; after that, bodily decline and \"mere oblivion\" make the speech darker.",
+    "The repetition (anaphora) lands the loss rhythmically. The specificity (teeth, eyes, taste) makes the absence physical, not abstract. An abstract statement like 'and then we die' would be forgettable; this catalogs the EMPTYING of a person.",
+    "Common winners: the lover ('sighing like furnace, with a woeful ballad / Made to his mistress' eyebrow') — the absurd specific image makes it work. Or the soldier ('seeking the bubble reputation / Even in the cannon's mouth') — the bubble metaphor is unforgettable. Defend your pick by naming the specific words."
+  ]
+}

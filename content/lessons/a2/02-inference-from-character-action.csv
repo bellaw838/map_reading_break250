@@ -1,0 +1,32 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+a2,A2.2,inference-from-character-action,Inference from Character Action,What characters DO reveals what they FEEL — even when they don't say it.,"Watch what characters do, especially what they do repeatedly or what they avoid. Actions reveal emotion that dialogue often hides.","**Actions speak louder than dialogue.**
+
+In fiction, characters rarely state their feelings directly. Instead, the author shows feelings through what characters DO:
+
+- A character who keeps glancing at the door → expecting someone, anxious about someone.
+- A character who pushes food around the plate without eating → upset, distracted.
+- A character who laughs too loudly at a joke → performing, uncomfortable.
+- A character who answers a question with another question → avoiding.
+
+**The advanced-reader move:**
+
+When you read an action, ask:
+
+> What feeling would cause someone to do THIS?
+
+Don't restate the action. Translate it into the feeling.
+
+**Watch especially for:**
+
+- **Repeated actions** — checking the clock three times, pacing, rereading a letter. Repetition signals intensity.
+- **Avoided actions** — not looking up, not answering, not opening the door. Avoidance signals a feeling too strong to face.
+- **Mismatched actions** — laughing at sad news, smiling when angry. Mismatches signal that what's on the surface isn't what's underneath.
+- **Small physical actions** — clenching fists, holding breath, looking away. The body shows what the words won't.
+
+**Common trap: just restating the action.**
+
+Question: *""How does Sam feel after his sister leaves?""*
+Weak answer: *""He stares out the window.""*
+Strong answer: *""He's lonely and missing her — he stares out the window long after she's gone, as if hoping she'll come back.""*
+
+The weak answer describes what happened. The strong answer infers from it.",Most literary inference questions on MAP hinge on this skill — reading actions as evidence of feeling.,Restating the action instead of inferring the feeling it implies.,Missing repeated actions (which signal intensity).,Missing mismatched actions (which signal hidden feeling).,"After his sister moved out, Sam stayed in the doorway of her empty room for ten minutes before turning out the light.",Sam is sad and missing her. Clue: staying in the doorway of an EMPTY room for ten minutes. Reasoning: lingering in a space connected to someone is a classic action of grief or longing.,"Strong inference — the action (lingering) is named, and the reasoning explains why it points to sadness rather than something else.",Maya laughed when her friend told her about the broken phone. Then she stopped laughing and offered to help pay for the repair.,Maya regretted the laugh and felt sympathy. Clue: the SHIFT from laughing to offering help. Reasoning: the change in behavior shows she realized the laugh was wrong and chose to make it right.,The mismatched first action + the corrective second action together reveal the feeling — guilt followed by sympathy.,"Dad opened the bill, closed it, opened it again, then set it on the kitchen counter without saying anything.",Dad is worried about the bill. Clue: opening it twice + setting it down without comment. Reasoning: rereading suggests the amount is hard to absorb; silence suggests he doesn't want to share the worry yet.,Two actions together (rereading + silence) make a stronger inference than either alone.,"Tara didn't open the letter all day. She set it on the table at breakfast, walked past it at lunch, and finally took it to her room before dinner.",Tara is afraid of what the letter says. Clue: avoiding it ALL DAY before finally taking it. Reasoning: avoidance signals a feeling too strong to face right away.,Repeated avoidance is the clue. Eventually carrying it away suggests she'll face it privately.,N/A,N/A,N/A

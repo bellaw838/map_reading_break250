@@ -1,0 +1,33 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+c3,C3.1,academic-verbs,Academic Verbs,The verbs that tell you what the author is doing.,"Watch the author's verbs. They tell you the move: assert, imply, concede, scrutinize, undermine, refute, emphasize, contrast. The verb is half the meaning.","**The author's verbs are signals.**
+
+Advanced texts and test questions are full of academic verbs. They name what the author or a character is *doing*. If you skim past them, you miss half the meaning.
+
+**High-frequency academic verbs and what they signal:**
+
+- **assert** — state confidently; the assertion may or may not be proven by surrounding evidence.
+- **imply** — hint at something without saying it directly.
+- **concede** — admit something (often in an argument).
+- **scrutinize** — examine carefully or critically.
+- **undermine** — weaken (a claim, position, argument).
+- **refute** — disprove or argue against.
+- **emphasize** — give particular weight or attention.
+- **contrast** — show differences between two things.
+- **illustrate** — give an example to show.
+- **acknowledge** — recognize that something is true (often a counterpoint).
+- **clarify** — make clearer; remove ambiguity.
+- **dismiss** — reject as unimportant.
+
+**Why these matter:**
+
+Test questions often hinge on the verb. """"The author *asserts*..."""" is different from """"The author *proves*..."""" One claims; the other demonstrates. """"The author *concedes*..."""" is different from """"The author *insists*..."""" One gives ground; the other holds firm.
+
+**The reading move:**
+
+When you see one of these verbs, pause and ask:
+
+- What's the author doing?
+- How strong or weak is this verb?
+- Does this match what the surrounding text actually does?
+
+If a question asks """"What does the author do in paragraph 3?"""" the answer is almost certainly one of these verbs.","Academic verbs are the vocabulary of MAP-style questions. Without this lexicon, students can spot a paragraph's job but can't name it.",Glossing over the author's verbs because they're not difficult words individually.,"Treating ""asserts"" and ""proves"" as the same — they're not (asserts = states confidently; proves = demonstrates with evidence).",Missing when the academic verb is the giveaway for the question's answer.,The author asserts that screen time harms attention spans.,Asserts = states confidently,"""Asserts"" is a claim verb. The author is putting forward a position; surrounding evidence determines whether it is proven.",The data implies a connection between sleep and grades.,Implies = hints indirectly,"""Implies"" is the hedged version of ""shows."" The data points toward a connection without explicitly stating one.",She conceded that her opponent had raised a valid point.,Conceded = admitted in an argument,"""Conceded"" is the argument-context version of ""admitted."" She's giving ground in a debate.",The report scrutinizes the city's spending over five years.,Scrutinizes = examines carefully and critically,"""Scrutinizes"" means more than ""looks at"" — it implies careful, critical attention.",This evidence undermines the company's earlier claim.,Undermines = weakens,"""Undermines"" is the figurative weaken-from-below verb. The evidence isn't refuting outright; it's chipping at the foundation."

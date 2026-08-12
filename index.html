@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Break MAP Reading 250+</title>
+  <meta name="description" content="A focused reading-analysis trainer for advanced middle-school readers — mini-lessons and trap-revealing quizzes across the three MAP Reading categories." />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>" />
+  <style>
+    @media print {
+      header, footer, #print-btn { display: none !important; }
+      body { background: white; }
+      a { color: inherit; text-decoration: none; }
+    }
+    kbd { background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 3px; padding: 0 4px; font-size: 0.85em; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 antialiased">
+  <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 bg-white border border-slate-400 px-3 py-1 rounded">Skip to content</a>
+  <header class="border-b border-slate-200 bg-white">
+    <div class="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between">
+      <a href="#/" class="font-semibold text-lg tracking-tight">Break MAP Reading 250+</a>
+      <nav class="text-sm text-slate-600 flex items-center gap-4">
+        <a href="#/" class="hover:text-slate-900">Home</a>
+        <a href="#/marking" class="hover:text-slate-900">Marking Guide</a>
+        <a href="#/reference" class="hover:text-slate-900">Quick Reference</a>
+        <a href="#/library" class="hover:text-slate-900">Library</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main" class="mx-auto max-w-6xl px-4 py-8">
+    <noscript>
+      <div class="rounded-lg border border-amber-300 bg-amber-50 p-4 text-sm">
+        This app requires JavaScript. Please enable it to continue.
+      </div>
+    </noscript>
+    <div id="app">
+      <div id="loading" class="text-slate-500 text-sm">Loading…</div>
+    </div>
+  </main>
+
+  <footer class="border-t border-slate-200 mt-16">
+    <div class="mx-auto max-w-6xl px-4 py-6 text-xs text-slate-500 space-y-1">
+      <p>Pre-release v0 — pure static scaffold.</p>
+      <p>
+        <strong>Privacy:</strong> this app stores your quiz scores and attempt count in your browser's
+        local storage. No data is sent anywhere — clearing your browser data or using "Reset progress" erases everything.
+        No accounts, no tracking, no third-party scripts beyond the Tailwind CSS CDN.
+      </p>
+    </div>
+  </footer>
+
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

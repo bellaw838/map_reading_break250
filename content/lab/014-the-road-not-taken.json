@@ -1,0 +1,98 @@
+{
+  "id": "lab-014-the-road-not-taken",
+  "title": "The Road Not Taken",
+  "author": "Robert Frost",
+  "year": 1916,
+  "source_url": "https://www.gutenberg.org/files/59824/59824-h/59824-h.htm",
+  "category": "Poetry",
+  "difficulty": "Medium",
+  "length_words": 144,
+  "intro": "Famously misread. The poem is usually quoted as a call to take the unusual path — but Frost is more careful than that. Decode a few compressed phrases first: wanted wear = seemed to need more footsteps, trodden black = stepped on until the leaves turned dark, and hence = from now or later. Watch what the speaker actually says about the roads in stanzas 2 and 3, then look at the future tense in stanza 4.",
+  "passage": "Two roads diverged in a yellow wood,\nAnd sorry I could not travel both\nAnd be one traveler, long I stood\nAnd looked down one as far as I could\nTo where it bent in the undergrowth;\n\nThen took the other, as just as fair,\nAnd having perhaps the better claim,\nBecause it was grassy and wanted wear;\nThough as for that the passing there\nHad worn them really about the same,\n\nAnd both that morning equally lay\nIn leaves no step had trodden black.\nOh, I kept the first for another day!\nYet knowing how way leads on to way,\nI doubted if I should ever come back.\n\nI shall be telling this with a sigh\nSomewhere ages and ages hence:\nTwo roads diverged in a wood, and I—\nI took the one less traveled by,\nAnd that has made all the difference.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 35,
+      "category": "structure",
+      "note": "STR: the setup, in one line. The choice is established before anything else. The 'yellow' wood may suggest autumn — a possible season of endings and decisions, but that is interpretation, not certainty."
+    },
+    {
+      "start": 41,
+      "end": 70,
+      "category": "tone",
+      "note": "TO: regret arrives immediately. Before the speaker even picks, he is already mourning the path he cannot take. This emotional tension sets up the poem."
+    },
+    {
+      "start": 92,
+      "end": 104,
+      "category": "inference",
+      "note": "INF: we infer the difficulty of the choice from this small detail. The speaker does not rush; he stands and considers. This is not a casual fork in the road."
+    },
+    {
+      "start": 202,
+      "end": 217,
+      "category": "evidence",
+      "note": "E: This phrase proves the second road is not clearly inferior or superior. It challenges the popular reading that one path was obviously bolder."
+    },
+    {
+      "start": 256,
+      "end": 293,
+      "category": "evidence",
+      "note": "TRAP/E: “Wanted wear” means the road looked as if it needed more use. That makes the less-traveled reading tempting, but Frost immediately revises it. Mark this as the claim readers must test against the next lines."
+    },
+    {
+      "start": 295,
+      "end": 367,
+      "category": "evidence",
+      "note": "E: the quiet retraction. The speaker corrects himself: actually, the roads were worn 'really about the same.' This is the proof readers often skip."
+    },
+    {
+      "start": 370,
+      "end": 439,
+      "category": "evidence",
+      "note": "E: “Both” and “equally” directly prove that neither road was clearly less traveled at the moment of choice. “No step had trodden black” means no one had walked on the fresh leaves enough to darken them."
+    },
+    {
+      "start": 495,
+      "end": 552,
+      "category": "theme",
+      "note": "TH: Choices become irreversible because one way leads to another. The point is not heroic uniqueness, but how decisions carry us away from earlier possibilities."
+    },
+    {
+      "start": 555,
+      "end": 578,
+      "category": "structure",
+      "note": "STR: The poem jumps into future tense. The speaker is predicting the story he will tell later, not simply reporting what he believes now."
+    },
+    {
+      "start": 579,
+      "end": 590,
+      "category": "tone",
+      "note": "TO: 'a sigh' is ambiguous — relief, regret, satisfaction? Frost chooses an uncertain word, so the future story has a complicated feeling."
+    },
+    {
+      "start": 659,
+      "end": 690,
+      "category": "inference",
+      "note": "INF: the famous line is spoken by the future version of the speaker. Since the present speaker just said the roads were equal, we infer he may rewrite the story over time."
+    },
+    {
+      "start": 692,
+      "end": 729,
+      "category": "theme",
+      "note": "TH: read this with the rest of the poem in mind. The 'difference' is not simply that he took the rarer road. The difference may be that he chose at all — or that he later tells himself a story about the choice."
+    }
+  ],
+  "discussion_prompts": [
+    "What do stanzas 2 and 3 say about how different the two roads actually were?",
+    "Why does Frost have the speaker say 'I shall be telling this with a sigh' — what does the future tense do?",
+    "The famous line 'I took the one less traveled by' is sometimes called the most misread line in American poetry. Why might that be?",
+    "If the final stanza said “with a smile” instead of “with a sigh,” how would the meaning change? Why does Frost choose “sigh” instead?"
+  ],
+  "discussion_answers": [
+    "Barely at all. Stanza 2: the second road is 'just as fair' and 'the passing there / Had worn them really about the same.' Stanza 3: 'both that morning equally lay / In leaves no step had trodden black.' Frost says clearly: the roads were EQUAL in the moment of choice.",
+    "It puts the famous line in the future tense — meaning the heroic 'less traveled' speech is something the speaker PREDICTS he will say, not what he believes now. The future tense quietly distances the speaker from the story he'll tell.",
+    "Quoted out of context, it sounds like advice to take the bold path. But the line is what the FUTURE speaker says — and the poem just told us the present speaker thought the roads were equal. Readers skip the qualifier ('with a sigh,' 'ages and ages hence') and treat the line as Frost's claim, not a character's predicted self-mythologizing.",
+    "If \"sigh\" became \"smile,\" the ending would feel clearly triumphant. Frost chooses \"sigh,\" a word that can signal regret, relief, nostalgia, or uncertainty, so the poem refuses a simple \"take the brave path\" moral."
+  ]
+}

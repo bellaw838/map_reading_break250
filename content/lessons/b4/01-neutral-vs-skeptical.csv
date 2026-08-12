@@ -1,0 +1,21 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+b4,B4.1,neutral-vs-skeptical,Neutral vs Skeptical,The most-missed tone distinction at advanced levels.,"Words like ""claimed,"" ""supposedly,"" or ""although"" can signal doubt. Test them in context before calling the tone skeptical.","**Neutral** and **skeptical** look similar on the page. Both can describe factual content. Both can sound calm. But they're not the same — and confusing them is the most common tone mistake at the Break-250 level.
+
+A **neutral** author reports without leaning. They use plain reporting verbs (""said,"" ""announced,"" ""reported""). They give facts and let the reader judge.
+
+A **skeptical** author looks like they're reporting facts — but their word choice quietly signals doubt. They use:
+
+- **Reporting verbs that hedge:** ""claimed,"" ""alleged,"" ""asserted,"" ""supposedly,"" ""reportedly""
+- **Contrast words:** ""although,"" ""however,"" ""despite,"" ""yet""
+- **Distancing phrases:** ""so-called,"" ""what they call,"" ""if true,"" ""according to""
+
+The doubt is real, but it's hidden in the word choice rather than stated directly.
+
+**How to use this tool:**
+
+1. Scan for hedging verbs (claimed, supposedly, allegedly, reportedly).
+2. Scan for contrast words (although, however, despite, yet).
+3. Scan for distancing phrases (so-called, what they call, if true).
+4. Treat these as signals to test. The tone is **skeptical** only when they distance, hedge, or undermine a claim in context.
+
+If none of these signals appear and the language is plain, the tone is genuinely **neutral**.","Plateaued readers see factual content and calm sentences, then default to ""neutral."" But word choice is the giveaway. Authors of skeptical writing rarely use openly negative words — they hide their doubt in hedging verbs and contrast words. Catching those signals is one of the highest-leverage moves at the 240 → 250 jump.","Students see facts plus calm language and default to ""neutral,"" missing the diction that signals doubt.","Students treat hedging verbs (""claimed,"" ""alleged"") as synonyms for plain reporting verbs (""said,"" ""announced"").",Students assume openly negative words are required for skepticism — but most skeptical writing hides its doubt in word choice.,"The company claimed its new bottle was eco-friendly, although it used nearly the same amount of plastic as before.",Skeptical,"""Claimed"" (instead of ""said"") and ""although"" (signaling contrast) both undermine the company's statement. The author isn't reporting neutrally — they're hedging.",The city council voted 7-2 to approve the budget. The new spending plan goes into effect July 1.,Neutral,"Plain reporting (""voted,"" ""goes into effect""); no hedging, no contrast words. The author is presenting facts without signaling attitude.","Supporters argue the policy will reduce traffic; however, early data shows little change in commute times.",Skeptical,"""Argue"" hedges (compare to ""showed""); ""however"" introduces evidence that undermines the claim. Quietly skeptical of the supporters.","The new bridge opens Friday after three years of construction. Officials say it will serve 50,000 commuters daily.",Neutral,"""Officials say"" is direct attribution. No hedging verbs, no contrast words. The author is reporting plainly.",N/A,N/A,N/A

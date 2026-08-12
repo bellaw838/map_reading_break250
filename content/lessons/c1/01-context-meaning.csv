@@ -1,0 +1,21 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+c1,C1.1,context-meaning,Context Meaning,Decoding an unfamiliar word from the sentences around it.,"When you hit a word you don't know, don't skip — read the sentence around it and the one after. The clues are usually right there.","**Context meaning is a process, not a guess.**
+
+Advanced readers don't have a bigger built-in dictionary. They have a better **decoding habit**. When they hit an unfamiliar word, they don't skip and they don't panic. They look at:
+
+- **The rest of the sentence.** Words around the unknown one often define or contrast with it.
+- **The sentence before and after.** The author often explains a hard word in the next breath.
+- **The author's purpose.** Is this an informational text trying to teach something? Then the word is likely defined nearby. Is it a story? Then the word's meaning is shown through action or feeling.
+
+**Four common context signals:**
+
+- **Definition.** ""The sediment, or rock and dirt washed downstream, had filled the harbor."" → ""rock and dirt washed downstream"" defines ""sediment.""
+- **Contrast.** ""Unlike her chatty cousin, Mia was **reticent**."" → ""Unlike her chatty cousin"" tells you reticent means the opposite of chatty.
+- **Example.** ""The shop sold ephemera — ticket stubs, postcards, old programs."" → the list of examples shows you ""ephemera"" means short-lived paper items.
+- **Cause / effect.** ""Because the bridge had **deteriorated**, engineers closed it for repairs."" → if it had to be closed for repairs, ""deteriorated"" means gotten worse.
+
+**Watch out for word-parts.** Latin/Greek roots help sometimes, but they can also mislead. ""Antibiotic"" looks like ""against life,"" which is roughly right. But ""sanguine"" doesn't mean ""bloody"" — it means cheerful. The text around the word is more reliable than the word's parts.
+
+**Decoding rule:**
+
+> Read the sentence with the unknown word. Then read the sentence before and after. Ask: what would have to be true for this whole passage to make sense? That meaning is your best guess.",Vocabulary in context is the single highest-leverage skill for breaking 250 on MAP Reading. Most plateaued readers know more words than they think — they just don't trust the decoding process.,Skipping unfamiliar words instead of using the context to decode them.,Relying only on word-parts (prefixes / roots) when the context gives clearer signal.,Treating context decoding as guessing — when it's actually a repeatable process with named signals.,"The sediment, or rock and dirt washed downstream, had filled the harbor.","sediment = rock and dirt washed downstream","The phrase after the comma is a direct definition — the author defined the hard word for you in the same sentence.","Unlike her chatty cousin, Mia was reticent.",reticent = quiet / not talkative,"""Unlike"" is a contrast signal. Whatever ""reticent"" means, it's the opposite of ""chatty.""","The shop sold ephemera — ticket stubs, postcards, old programs.",ephemera = short-lived paper items / small printed things,"The list after the em-dash gives examples. From the examples you can infer what ""ephemera"" means as a category.","Because the bridge had deteriorated, engineers closed it for repairs.",deteriorated = gotten worse / fallen into bad condition,"""Because"" sets up cause and effect. If something had to be repaired, the cause word (""deteriorated"") must mean ""gotten worse.""",N/A,N/A,N/A

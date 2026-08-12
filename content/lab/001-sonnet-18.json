@@ -1,0 +1,68 @@
+{
+  "id": "lab-001-sonnet-18",
+  "title": "Sonnet 18",
+  "author": "William Shakespeare",
+  "year": 1609,
+  "source_url": "https://www.gutenberg.org/cache/epub/1041/pg1041.txt",
+  "category": "Poetry",
+  "difficulty": "Hard",
+  "length_words": 116,
+  "intro": "Fourteen lines. Shakespeare’s wording is old-fashioned, so decode the sentence first: thee/thou = you, thy = your, ow’st = own, fair = beauty, and eternal lines = the poem’s lasting lines. Watch the structure: Shakespeare sets up a comparison in the first eight lines, then turns in line nine and seals the argument in the final couplet.",
+  "passage": "Shall I compare thee to a summer's day?\nThou art more lovely and more temperate:\nRough winds do shake the darling buds of May,\nAnd summer's lease hath all too short a date:\nSometime too hot the eye of heaven shines,\nAnd often is his gold complexion dimm'd;\nAnd every fair from fair sometime declines,\nBy chance, or nature's changing course, untrimm'd;\nBut thy eternal summer shall not fade,\nNor lose possession of that fair thou ow'st;\nNor shall Death brag thou wander'st in his shade,\nWhen in eternal lines to time thou grow'st;\n  So long as men can breathe, or eyes can see,\n  So long lives this, and this gives life to thee.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 39,
+      "category": "structure",
+      "note": "STR: the opening question sets up the whole poem. Shakespeare is going to compare 'thee' to a summer's day — and then complicate the comparison."
+    },
+    {
+      "start": 40,
+      "end": 80,
+      "category": "theme",
+      "note": "CL: Plain English: “Thou art” means “you are,” and “more temperate” means more balanced or moderate. This is the poem’s central claim: the beloved is steadier than summer, not just prettier."
+    },
+    {
+      "start": 81,
+      "end": 351,
+      "category": "evidence",
+      "note": "E: Lines 3–8 list summer’s flaws: rough winds shake flowers, summer does not last long, the sun is sometimes too hot or hidden, and every beautiful thing eventually fades or changes. Each detail proves summer is not a stable comparison, building the case for the turn."
+    },
+    {
+      "start": 352,
+      "end": 355,
+      "category": "structure",
+      "note": "SHIFT/STR: 'But' is the volta, the single most important structural word in the poem. Everything before is the problem; everything after is the answer."
+    },
+    {
+      "start": 356,
+      "end": 485,
+      "category": "structure",
+      "note": "FIG -> TH: Plain English: “Your summer-like beauty will not fade; you will not lose the beauty you own; Death will not get to brag that you belong to him.” “Eternal summer” and Death personified as bragging turn time and mortality into images. These figures support the theme that poetry can preserve the beloved beyond natural decay."
+    },
+    {
+      "start": 530,
+      "end": 627,
+      "category": "structure",
+      "note": "STR: the final couplet seals the argument. The poem itself becomes the means by which the beloved is preserved."
+    },
+    {
+      "start": 494,
+      "end": 507,
+      "category": "structure",
+      "note": "FIG/WC -> TH: \"Eternal lines\" turns the poem itself into the instrument of immortality. The phrase supports the defiant claim that verse can outlast death."
+    }
+  ],
+  "discussion_prompts": [
+    "Find the word 'But' in line 9. Why is this single word the most important structural move in the sonnet?",
+    "Lines 3–8 are full of summer's flaws. What's the rhetorical purpose of listing summer's weaknesses BEFORE praising the beloved?",
+    "Line 12 names “eternal lines” — the poem’s lasting lines — and the couplet says “this gives life to thee.” What does that suggest about Shakespeare’s confidence in poetry?",
+    "Compare the tone of lines 1–8 (the setup) to lines 9–14 (the answer). What changes?"
+  ],
+  "discussion_answers": [
+    "It is the volta — the turn. Everything before it (lines 1-8) builds a problem: summer is a flawed comparison. 'But' announces that the rest of the poem will give the answer. One three-letter word splits the sonnet into 'setup' and 'payoff.'",
+    "Shakespeare is preparing the reader to dismiss the obvious comparison. By the time line 9 arrives, we already agree summer is unreliable — so when he claims the beloved is BETTER than summer, the claim feels earned, not flattering.",
+    "Confident, almost boastful. Shakespeare is claiming these poem lines will preserve the person he loves across time. The tone shifts from praise to a quiet announcement of his own power as a poet — the poem itself is the gift.",
+    "Lines 1-8 are exploratory and slightly anxious — summer keeps failing as a comparison. Lines 9-14 are decisive and triumphant — once Shakespeare turns, he commits. The shift is from questioning to declaring."
+  ]
+}

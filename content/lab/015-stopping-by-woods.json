@@ -1,0 +1,92 @@
+{
+  "id": "lab-015-stopping-by-woods",
+  "title": "Stopping by Woods on a Snowy Evening",
+  "author": "Robert Frost",
+  "year": 1923,
+  "source_url": "https://www.gutenberg.org/cache/epub/70961/pg70961.txt",
+  "category": "Poetry",
+  "difficulty": "Medium",
+  "length_words": 108,
+  "intro": "Four stanzas of four lines each. A man stops on a winter road to watch snow fall into woods. Some wording is old or poetic: the first line means “I think I know whose woods these are,” queer = strange or unusual, and downy flake = soft snowflake. Nothing dramatic happens — but Frost packs the whole poem with tension.",
+  "passage": "Whose woods these are I think I know.\nHis house is in the village though;\nHe will not see me stopping here\nTo watch his woods fill up with snow.\n\nMy little horse must think it queer\nTo stop without a farmhouse near\nBetween the woods and frozen lake\nThe darkest evening of the year.\n\nHe gives his harness bells a shake\nTo ask if there is some mistake.\nThe only other sound's the sweep\nOf easy wind and downy flake.\n\nThe woods are lovely, dark and deep,\nBut I have promises to keep,\nAnd miles to go before I sleep,\nAnd miles to go before I sleep.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 37,
+      "category": "structure",
+      "note": "STR/INF: The poem opens with a thought, not a description. Plain English: “I think I know whose woods these are.” The speaker is already thinking about who owns the woods — a small worry hidden inside what looks like a peaceful scene."
+    },
+    {
+      "start": 38,
+      "end": 72,
+      "category": "inference",
+      "note": "INF: we infer the speaker is aware of who owns the woods and aware the owner will not see him. The 'though' hints stopping is not quite his to do — more quiet self-awareness than relief."
+    },
+    {
+      "start": 107,
+      "end": 144,
+      "category": "tone",
+      "note": "WC -> TO: the scene is quiet and almost still. The verb 'fill up' suggests slowness and accumulation, creating a hushed tone."
+    },
+    {
+      "start": 146,
+      "end": 181,
+      "category": "inference",
+      "note": "INF: “Queer” here means strange or unusual. The speaker imagines that the horse thinks stopping here is odd, so the horse becomes a stand-in for the speaker’s own sense that something is off."
+    },
+    {
+      "start": 249,
+      "end": 281,
+      "category": "tone",
+      "note": "M/WC: \"The darkest evening of the year\" deepens the mood from quiet to somber and gives the stop emotional weight."
+    },
+    {
+      "start": 283,
+      "end": 350,
+      "category": "inference",
+      "note": "INF: the horse's shake is interpreted as a question. We infer the speaker has been still long enough that even the horse notices."
+    },
+    {
+      "start": 351,
+      "end": 413,
+      "category": "tone",
+      "note": "WC -> TO: The world has gone almost silent. “Easy wind” means gentle wind, and “downy flake” means soft snowflake. These soft phrases make this the quietest part of the poem."
+    },
+    {
+      "start": 415,
+      "end": 451,
+      "category": "theme",
+      "note": "TH/WC: The three adjectives create the poem’s central tension. \"Lovely\" attracts the speaker, while \"dark and deep\" makes the woods feel absorbing and possibly dangerous."
+    },
+    {
+      "start": 452,
+      "end": 480,
+      "category": "structure",
+      "note": "SHIFT/STR: 'But' is the turn. The speaker breaks his own spell. The lovely woods are not for him; there is work, duty, and a life to return to."
+    },
+    {
+      "start": 481,
+      "end": 512,
+      "category": "structure",
+      "note": "STR: first occurrence. On its surface, this means literal miles before bed. The poem could end here, but Frost repeats the line, and that repetition changes the meaning."
+    },
+    {
+      "start": 513,
+      "end": 544,
+      "category": "structure",
+      "note": "STR/FIG -> TH: The repeated line forces a second reading. \"Sleep\" can suggest more than bedtime, and \"miles\" can become the obligations or remaining journey of life."
+    }
+  ],
+  "discussion_prompts": [
+    "Why does Frost end the poem by repeating the same line? What does the second 'And miles to go before I sleep' MEAN that the first one didn't?",
+    "The woods are called 'lovely, dark and deep.' What does Frost do by piling three different adjectives together?",
+    "Find the horse. What is the horse's role in the poem — what work does the animal do?",
+    "Track the end sounds in each stanza. The first three stanzas keep sending one rhyme sound forward into the next stanza, but the last stanza stops that pattern. What does the change accomplish?"
+  ],
+  "discussion_answers": [
+    "First time: mostly literal, miles before bedtime. Second time: the repetition makes \"sleep\" feel larger — possibly rest, death, or release — and \"miles\" become the speaker’s remaining obligations. The same words deepen because we hear them twice.",
+    "Two opposing pulls in one phrase. 'Lovely' invites; 'dark and deep' warns. Three adjectives create a small list, which feels more considered than 'beautiful but dangerous.' The line packs the whole poem's tension into five words.",
+    "A non-human stand-in for the speaker's own awareness. The speaker projects his uncertainty onto the horse ('must think it queer'), and reads the horse's bell-shake as a question. The horse is the speaker's own caution, externalized.",
+    "Stanzas 1-3 follow AABA — the third line introduces a new sound that becomes the next stanza's main rhyme. The last stanza is AAAA — no escape sound, no link to a next stanza. The rhyme tells you the poem is ENDING and the speaker isn't moving forward to anything new."
+  ]
+}

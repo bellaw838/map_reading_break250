@@ -1,0 +1,74 @@
+{
+  "id": "lab-008-tomorrow-and-tomorrow",
+  "title": "Tomorrow, and tomorrow, and tomorrow (Macbeth)",
+  "author": "William Shakespeare",
+  "year": 1606,
+  "source_url": "https://www.gutenberg.org/cache/epub/1533/pg1533.txt",
+  "category": "Poetry",
+  "difficulty": "Hard",
+  "length_words": 83,
+  "intro": "Macbeth’s despair speech, after he hears of his wife’s death. Ten lines. Decode the compressed phrases first: petty pace = small, slow pace; dusty death = the grave or death; player = actor; tale = story; signifying = meaning. Watch how every image — a candle, a shadow, a player, a tale — builds the same idea: life is brief and meaningless.",
+  "passage": "Tomorrow, and tomorrow, and tomorrow,\nCreeps in this petty pace from day to day,\nTo the last syllable of recorded time;\nAnd all our yesterdays have lighted fools\nThe way to dusty death. Out, out, brief candle!\nLife's but a walking shadow, a poor player,\nThat struts and frets his hour upon the stage,\nAnd then is heard no more. It is a tale\nTold by an idiot, full of sound and fury,\nSignifying nothing.",
+  "annotations": [
+    {
+      "start": 0,
+      "end": 37,
+      "category": "structure",
+      "note": "STR: the opening anaphora ('Tomorrow, and tomorrow, and tomorrow') does two things at once: it sounds like the endless plodding of days, and it announces the speech's central concern with time. Form = meaning."
+    },
+    {
+      "start": 38,
+      "end": 80,
+      "category": "tone",
+      "note": "WC -> TO: 'Creeps' and 'petty pace' make time feel slow, small, and contemptible. Macbeth's attitude toward time is bitter and dismissive."
+    },
+    {
+      "start": 81,
+      "end": 118,
+      "category": "structure",
+      "note": "FIG -> TH: Plain English: time is imagined like a book or speech running out word by word until its final syllable. The image supports Macbeth’s belief that life moves slowly toward a fixed ending."
+    },
+    {
+      "start": 186,
+      "end": 209,
+      "category": "structure",
+      "note": "FIG/WC -> TO: Life is imagined as a brief candle that can be snuffed out. The command \"Out, out\" makes Macbeth’s tone impatient and despairing."
+    },
+    {
+      "start": 210,
+      "end": 253,
+      "category": "structure",
+      "note": "FIG -> TH: the extended metaphor begins. Life = a walking shadow + a poor player. Both images diminish life — shadows have no substance, bad actors have no skill. The figurative move carries Macbeth's theme that life is insubstantial."
+    },
+    {
+      "start": 254,
+      "end": 300,
+      "category": "structure",
+      "note": "FIG/WC -> TO: This extends the actor metaphor. \"Struts\" and \"frets\" make human life seem vain, anxious, and contemptible."
+    },
+    {
+      "start": 328,
+      "end": 358,
+      "category": "structure",
+      "note": "FIG -> TH: Life becomes a story told by a fool. The metaphor reduces human experience to narrative without wisdom or purpose."
+    },
+    {
+      "start": 359,
+      "end": 381,
+      "category": "tone",
+      "note": "WC -> TO: 'sound and fury' are big, energetic nouns, and the next line empties them with 'signifying nothing.' The tone is bitter, rhythmic, and hollowed out."
+    }
+  ],
+  "discussion_prompts": [
+    "The speech has four images for life: a candle, a shadow, a player, a tale. What does each image add that the others don't?",
+    "Compare this speech's view of 'the stage' to Jaques' 'All the world's a stage.' What's different in tone?",
+    "“Signifying nothing” means “meaning nothing.” Why does Shakespeare end on the weakest, smallest word in the speech?",
+    "Find the phrase 'full of sound and fury.' Why is this so often quoted? What does it accomplish?"
+  ],
+  "discussion_answers": [
+    "Candle: brief and easily blown out. Walking shadow: insubstantial, going through motions without weight. Poor player: performing badly for a fixed time then exiting. Tale told by an idiot: noise without sense. Each shrinks life further: from brief → empty → bad performance → meaningless noise.",
+    "Jaques uses the stage metaphor with detached amusement — life as comic theatre with stages. Macbeth uses the same metaphor with despair — life as a bad performance that ends in silence. Same image, opposite emotional weight.",
+    "'Nothing' is the bleakest noun available. Ending on it deflates everything before it — the sound and fury build energy, the last word releases it into emptiness. The smallness of the final word IS the point: life ends in zero.",
+    "It is quoted because it compresses emotional intensity into a hard, memorable phrase. \"Sound\" and \"fury\" feel loud and forceful, but the next line, \"Signifying nothing,\" empties that energy of meaning."
+  ]
+}

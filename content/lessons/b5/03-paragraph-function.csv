@@ -1,0 +1,38 @@
+module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
+b5,B5.3,paragraph-function,Paragraph Function,"Every paragraph has a JOB. Read for the job, not just the content.","Each paragraph in nonfiction has a job — introduce, define, give an example, provide evidence, contrast, counter, refute, conclude. Read for the job, not just the content.","**Paragraphs aren't just chunks of text. They have JOBS.**
+
+In informational writing, each paragraph usually does one specific kind of work. Advanced readers learn to recognize the job — and the job often answers the test question.
+
+**Common paragraph functions:**
+
+- **Introduce** — set up the topic, often with a hook or thesis.
+- **Provide background** — give context the reader needs.
+- **Define a term** — explain a concept the rest of the article uses.
+- **Give an example** — illustrate a claim with a specific case.
+- **Provide evidence** — present data, study results, or specific facts.
+- **Show contrast** — compare two things or show a counterpoint.
+- **Present a counterargument** — give the opposing view (often to refute it).
+- **Refute** — argue against a position.
+- **Explain cause / effect** — show how one thing led to another.
+- **Conclude** — restate the main idea or call for action.
+
+**The reading move:**
+
+When you finish a paragraph, ask:
+
+> What JOB did that paragraph just do?
+
+If you can name the job, you understand the paragraph's role. If you can't, you've probably read the words without understanding the structure.
+
+**On a test:**
+
+Questions like *""What is the role of paragraph 3?""* or *""Why does the author include paragraph 4?""* are paragraph-function questions. The answer is one of the verbs above (illustrate, refute, define, etc.) — not a summary of the paragraph's content.
+
+**Common trap:**
+
+A wrong-answer choice will SUMMARIZE the paragraph's content rather than name its job. Both might be true, but the job is what the question is asking for.
+
+- Wrong (content summary): ""Paragraph 3 discusses the new policy.""
+- Right (function): ""Paragraph 3 provides evidence that the new policy is working.""
+
+The second names what the paragraph DOES, not just what it talks about.",Paragraph-function questions are constant on MAP informational reading. Students who can name the function (instead of just summarizing content) score significantly higher.,Summarizing a paragraph's CONTENT instead of naming its JOB.,"Thinking every paragraph ""explains"" or ""talks about"" something — too generic to be a real function.","Missing that one paragraph can do MULTIPLE jobs (introduce + define, contrast + counter).","Paragraph 1 of an article: ""Honeybee populations have declined since 2006. Researchers say the causes are complex and the solutions are not obvious.""",Function: Introduce — sets up the topic and signals the article's complexity.,Opens the article with the topic (decline) and a hook (complex causes). Classic introduce function.,"Paragraph 4: ""Consider the case of Vermont, where pesticide restrictions and habitat replanting together produced a 30 percent rebound in honeybee populations between 2018 and 2022.""",Function: Give an example — illustrates the article's claim with a specific case.,"""Consider the case of X"" is a classic example-paragraph opener. The Vermont specifics illustrate the broader claim.","Paragraph 5: ""Some critics argue that the multi-cause framing lets pesticide manufacturers avoid full responsibility.""",Function: Present a counterargument.,"""Some critics argue..."" introduces opposing view. The paragraph's job is to present that view, often before the article addresses it.","Final paragraph: ""What the bee research makes clear is that simple problems often have causes we haven't yet learned to see — and that patient, systemic responses tend to work better than dramatic single fixes.""",Function: Conclude — restates and extends the main idea.,"Final paragraph that synthesizes (""what the research makes clear"") and generalizes (""systemic responses tend to work better""). Classic conclude function.",N/A,N/A,N/A
