@@ -128,4 +128,4 @@ This is **B4.1 "Neutral vs Skeptical"** — the highest-leverage Tone sub-concep
 
 ## License
 
-TBD.
+MIT — see `LICENSE`.
