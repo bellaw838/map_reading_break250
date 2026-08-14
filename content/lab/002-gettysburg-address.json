@@ -6,7 +6,7 @@
   "source_url": "https://www.loc.gov/exhibits/gettysburg-address/",
   "category": "Informational",
   "difficulty": "Hard",
-  "length_words": 272,
+  "length_words": 278,
   "intro": "Lincoln’s speech is only about two minutes long. “Four score and seven years ago” means 87 years ago, pointing back to 1776. Watch how Lincoln structures the argument in three movements: past, present, and future. Each movement does a specific job.",
   "passage": "Four score and seven years ago our fathers brought forth, on this continent, a new nation, conceived in liberty, and dedicated to the proposition that all men are created equal.\n\nNow we are engaged in a great civil war, testing whether that nation, or any nation so conceived, and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives, that that nation might live. It is altogether fitting and proper that we should do this.\n\nBut, in a larger sense, we can not dedicate — we can not consecrate — we can not hallow — this ground. The brave men, living and dead, who struggled here, have consecrated it far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us — that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion — that we here highly resolve that these dead shall not have died in vain — that this nation, under God, shall have a new birth of freedom — and that government of the people, by the people, for the people, shall not perish from the earth.",
   "annotations": [
@@ -38,7 +38,7 @@
       "start": 665,
       "end": 780,
       "category": "evidence",
-      "note": "E: The brave men's sacrifice proves Lincoln's claim that the ground has already been consecrated."
+      "note": "E: The brave men who struggled here, living and dead, have already consecrated the ground far beyond what the speakers can add."
     },
     {
       "start": 889,
@@ -68,7 +68,7 @@
   ],
   "discussion_answers": [
     "PAST begins 'Four score and seven years ago…' (paragraph 1). PRESENT begins 'Now we are engaged…' (paragraph 2). FUTURE begins 'It is for us the living…' (last paragraph). The order moves listeners from founding ideal → current crisis → call to action. You can't make the call before grounding the principle.",
-    "Three things at once: rhythm makes the line memorable; the religious vocabulary (consecrate, hallow) raises the stakes; the triple denial signals that ordinary words aren't powerful enough — only the dead can consecrate this ground.",
+    "Three things at once: rhythm makes the line memorable; the religious vocabulary (consecrate, hallow) raises the stakes; the triple denial signals that ordinary words aren't powerful enough — the men who fought here, living and dead, have already consecrated it.",
     "Lincoln says: because they died, WE must take 'increased devotion' to the cause they died for — so that the government 'of the people, by the people, for the people' will not perish. The sacrifice has meaning only if democracy survives.",
     "Paragraph 2 is solemn and quiet — we have come, we are met, it is fitting and proper. Paragraph 3 becomes urgent and forward-looking — 'it is for us the living, rather, to be dedicated…' Language of duty replaces language of mourning.",
     "The three repetitions give the phrase weight and rhythm — it sounds inevitable. Each preposition is doing a different job: government BELONGING to citizens (of), RUN BY citizens (by), SERVING citizens (for). A simpler phrase couldn't carry all three claims."

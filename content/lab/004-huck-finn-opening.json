@@ -6,7 +6,7 @@
   "source_url": "https://www.gutenberg.org/files/76/76-h/76-h.htm",
   "category": "Literary",
   "difficulty": "Medium",
-  "length_words": 152,
+  "length_words": 110,
   "intro": "Huck is the narrator, and Twain writes his voice in dialect: a spoken, regional form of English. The nonstandard grammar is intentional. It shows Huck’s background and voice, but it does not mean he is unintelligent. Watch how Huck sounds casual while also noticing complicated things about truth and lying.",
   "passage": "You don't know about me without you have read a book by the name of The Adventures of Tom Sawyer; but that ain't no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied one time or another, without it was Aunt Polly, or the widow, or maybe Mary. Aunt Polly — Tom's Aunt Polly, she is — and Mary, and the Widow Douglas is all told about in that book, which is mostly a true book, with some stretchers, as I said before.",
   "annotations": [
@@ -20,7 +20,7 @@
       "start": 24,
       "end": 45,
       "category": "tone",
-      "note": "WC -> POV: “Without you have read” means “unless you have read.” Twain writes Huck’s dialect to make his spoken voice feel real and to show his limited formal schooling."
+      "note": "WC -> POV: “Without you have read” means “unless you have read.” Twain writes Huck’s dialect to make his spoken voice feel real and to mark him as a boy speaking casually, not formally. Careful: nonstandard grammar shows a regional, spoken way of talking — it is not proof of how intelligent or educated a speaker is."
     },
     {
       "start": 124,
