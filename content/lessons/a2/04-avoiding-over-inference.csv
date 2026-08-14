@@ -1,11 +1,11 @@
 module_id,sub_concept_id,slug,title,subtitle,quick_ref,mini_lesson,why_it_matters,common_trap_1,common_trap_2,common_trap_3,example_1_text,example_1_answer,example_1_explanation,example_2_text,example_2_answer,example_2_explanation,example_3_text,example_3_answer,example_3_explanation,example_4_text,example_4_answer,example_4_explanation,example_5_text,example_5_answer,example_5_explanation
-a2,A2.4,avoiding-over-inference,Avoiding Over-Inference,Only infer as far as the text supports — don't pull in outside knowledge or extrapolate too far.,"Inference works inside the text. The moment you reach for outside knowledge or a conclusion the clues don't support, you've over-inferred. Stay close to the page.","**Over-inference is the most common advanced-reader mistake.**
+a2,A2.4,avoiding-over-inference,Avoiding Over-Inference,Only infer as far as the text supports — don't pull in outside knowledge or extrapolate too far.,"An inference starts with a clue in the text. Use what you know to explain the clue, but don't add story details the text never gives you.","**Over-inference is the most common advanced-reader mistake.**
 
-Plateaued readers know inference is important — but they often go TOO FAR. They reach conclusions the text doesn't quite support, usually by leaning on outside knowledge.
+Plateaued readers know inference is important — but they often go TOO FAR. They reach conclusions the text doesn't quite support, usually by adding story details that were never there.
 
 **Two forms of over-inference:**
 
-1. **Outside knowledge.** You add information from your own life or general knowledge that the text doesn't give you.
+1. **Invented details.** Everyday knowledge is fine — you know people check the clock when they're impatient. What's not fine is adding STORY facts the text never gave you: a character's past, why they really did it, what happens next.
    - Text: *""Mia is a fifth grader who loves to read.""*
    - Over-inference: *""Mia probably gets straight A's.""*
    - The text doesn't say anything about her grades. ""Loves to read"" doesn't necessarily mean A's.
@@ -19,14 +19,14 @@ Plateaued readers know inference is important — but they often go TOO FAR. The
 
 After making an inference, ask:
 
-> Is this the SMALLEST conclusion the clue supports, or am I adding stuff?
+> Is this the most exact conclusion the clue can actually support — or am I adding stuff?
 
-The smallest, closest-to-the-text conclusion is usually the right inference. The bigger, more dramatic one is usually over-inference.
+The right inference is the most exact one the evidence can hold up — not the biggest and most dramatic, but not the vaguest either. Too vague is its own kind of wrong answer.
 
 **Trap-spotting:**
 
-Wrong-answer choices in test questions often include over-inferences. They sound smart but they go further than the text supports. If you find yourself thinking ""well, in real life this would mean..."", pull back — that's outside knowledge.
+Wrong-answer choices in test questions often include over-inferences. They sound smart but they go further than the text supports. If you find yourself thinking ""well, in real life this would mean..."", pull back — you're writing the story instead of reading it.
 
 **Rule:**
 
-> Stay one step beyond the text. Not two. Not three.","Over-inference is the trap that catches advanced readers more than basic ones — basic readers under-infer, but the next level is to infer the RIGHT amount.","Adding outside knowledge to an inference (""in real life, this would mean..."").","Extrapolating beyond what the clue supports (small clue, big conclusion).",Picking a dramatic-sounding answer that goes further than the text justifies.,"Text: ""Mia is a fifth grader who loves to read."" Over-inference: ""Mia gets straight A's.""",Over-inference — outside knowledge.,Loving to read doesn't tell us about grades. The reader added information that isn't in the text.,"Text: ""He frowned at the menu and ordered water."" Over-inference: ""His family is bankrupt and he's about to drop out of school.""",Over-inference — extrapolation.,"The clue (frown + water order) supports something small (maybe not hungry, maybe saving money). It doesn't support a whole life crisis.","Text: ""The grandmother smiled when she saw the photograph."" Reasonable inference: ""The photograph means something to her.""","Reasonable — small, close to the text.",The smile is the clue. The smallest inference is that the photo matters. We don't know WHY yet; further conclusions would be over-inference.,"Text: ""Tom didn't come to school for three days."" Over-inference: ""Tom is in serious trouble at home.""",Over-inference.,"The text gives one fact (three absences). It doesn't support a specific cause. ""Tom may have been sick or had something going on"" would be a more defensible inference.",N/A,N/A,N/A
+> Stay one step beyond the text. Not two. Not three.","Over-inference is the trap that catches advanced readers more than basic ones — basic readers under-infer, but the next level is to infer the RIGHT amount.","Adding outside knowledge to an inference (""in real life, this would mean..."").","Extrapolating beyond what the clue supports (small clue, big conclusion).",Picking a dramatic-sounding answer that goes further than the text justifies.,"Text: ""Mia is a fifth grader who loves to read."" Over-inference: ""Mia gets straight A's.""",Over-inference — outside knowledge.,Loving to read doesn't tell us about grades. The reader added information that isn't in the text.,"Text: ""He frowned at the menu and ordered water."" Over-inference: ""His family is bankrupt and he's about to drop out of school.""",Over-inference — extrapolation.,"The clue (frown + water order) supports something small (maybe not hungry, maybe saving money). It doesn't support a whole life crisis.","Text: ""The grandmother smiled when she saw the photograph."" Reasonable inference: ""The photograph means something to her.""","Reasonable — small, close to the text.",The smile is the clue. What the evidence actually supports is that the photo matters to her. We don't know WHY yet — guessing at the reason would be over-inference.,"Text: ""Tom didn't come to school for three days."" Over-inference: ""Tom is in serious trouble at home.""",Over-inference.,"The text gives one fact (three absences). It doesn't support a specific cause. ""Tom may have been sick or had something going on"" would be a more defensible inference.",N/A,N/A,N/A
