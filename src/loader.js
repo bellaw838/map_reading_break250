@@ -219,24 +219,56 @@ function shapeLesson(row) {
   };
 }
 
+const CHOICE_KEYS = ["a", "b", "c", "d"];
+
+/**
+ * Fisher-Yates shuffle on a copy.
+ * @template T
+ * @param {T[]} items
+ * @returns {T[]}
+ */
+function shuffled(items) {
+  const out = items.slice();
+  for (let i = out.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]];
+  }
+  return out;
+}
+
+/**
+ * Randomize which letter each choice appears under, carrying its feedback with
+ * it. Authoring order leaked a strong positional pattern (Q1 was A in 19 of 24
+ * packs) and a correct-answer-is-longest tell, so the displayed order is
+ * shuffled per load. `correctChoice` is recomputed to the new letter.
+ */
+function randomizeChoices(row) {
+  const sourceOrder = shuffled(CHOICE_KEYS);
+  const choices = {};
+  const feedback = {};
+  let correctChoice = row.correct_choice;
+
+  sourceOrder.forEach((from, i) => {
+    const to = CHOICE_KEYS[i];
+    choices[to] = row[`choice_${from}`];
+    feedback[to] = row[`feedback_${from}`];
+    if (from.toUpperCase() === row.correct_choice.toUpperCase()) {
+      correctChoice = to.toUpperCase();
+    }
+  });
+
+  return { choices, feedback, correctChoice };
+}
+
 function shapeQuiz(row) {
+  const { choices, feedback, correctChoice } = randomizeChoices(row);
   return {
     quizId: row.quiz_id,
     questionNumber: Number(row.question_number),
     prompt: row.prompt,
-    choices: {
-      a: row.choice_a,
-      b: row.choice_b,
-      c: row.choice_c,
-      d: row.choice_d,
-    },
-    correctChoice: row.correct_choice,
-    feedback: {
-      a: row.feedback_a,
-      b: row.feedback_b,
-      c: row.feedback_c,
-      d: row.feedback_d,
-    },
+    choices,
+    correctChoice,
+    feedback,
     trapType: row.trap_type === "N/A" ? "" : row.trap_type,
     difficulty: row.difficulty,
   };

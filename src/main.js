@@ -320,8 +320,8 @@ function renderHome() {
               <ul class="mt-2 space-y-1.5">
                 <li><button type="button" data-choice="A" class="ex-opt w-full text-left rounded-md border border-slate-200 bg-white px-2.5 py-1.5 text-slate-700 transition hover:border-indigo-300 hover:bg-indigo-50/60 focus:outline-none focus:ring-2 focus:ring-indigo-400"><span class="font-mono text-xs text-slate-400 mr-1">A.</span> Harry misses his parents and wishes he could see them again.</button></li>
                 <li><button type="button" data-choice="B" class="ex-opt w-full text-left rounded-md border border-slate-200 bg-white px-2.5 py-1.5 text-slate-700 transition hover:border-indigo-300 hover:bg-indigo-50/60 focus:outline-none focus:ring-2 focus:ring-indigo-400"><span class="font-mono text-xs text-slate-400 mr-1">B.</span> The mirror is magical and shows whatever a person most wants.</button></li>
-                <li><button type="button" data-choice="C" class="ex-opt w-full text-left rounded-md border border-slate-200 bg-white px-2.5 py-1.5 text-slate-700 transition hover:border-indigo-300 hover:bg-indigo-50/60 focus:outline-none focus:ring-2 focus:ring-indigo-400"><span class="font-mono text-xs text-slate-400 mr-1">C.</span> Students should obey the rules and not wander the castle at night.</button></li>
-                <li><button type="button" data-choice="D" class="ex-opt w-full text-left rounded-md border border-slate-200 bg-white px-2.5 py-1.5 text-slate-700 transition hover:border-indigo-300 hover:bg-indigo-50/60 focus:outline-none focus:ring-2 focus:ring-indigo-400"><span class="font-mono text-xs text-slate-400 mr-1">D.</span> The mirror is dangerous, and Harry should not rely on it.</button></li>
+                <li><button type="button" data-choice="C" class="ex-opt w-full text-left rounded-md border border-slate-200 bg-white px-2.5 py-1.5 text-slate-700 transition hover:border-indigo-300 hover:bg-indigo-50/60 focus:outline-none focus:ring-2 focus:ring-indigo-400"><span class="font-mono text-xs text-slate-400 mr-1">C.</span> Dumbledore is wise and knows more about the mirror than Harry does.</button></li>
+                <li><button type="button" data-choice="D" class="ex-opt w-full text-left rounded-md border border-slate-200 bg-white px-2.5 py-1.5 text-slate-700 transition hover:border-indigo-300 hover:bg-indigo-50/60 focus:outline-none focus:ring-2 focus:ring-indigo-400"><span class="font-mono text-xs text-slate-400 mr-1">D.</span> Dwelling on what you wish for can stop you from living your real life.</button></li>
               </ul>
               <p id="ex-hint" class="mt-3 text-xs italic text-slate-500">Pick an answer to see how a strong reader and a 250+ reader think it through.</p>
 
@@ -339,7 +339,7 @@ function renderHome() {
                       </li>
                       <li>
                         <span class="font-semibold text-slate-900">Knows the main idea:</span>
-                        he wants to see his parents; Dumbledore tells him to follow the rules and that it is only a mirror.
+                        he wants to see his parents, and Dumbledore warns him that the mirror will not help him.
                       </li>
                       <li>
                         <span class="font-semibold text-slate-900">Picks a true answer:</span>
@@ -352,7 +352,7 @@ function renderHome() {
                     <ul class="mt-1 space-y-1.5 text-slate-700">
                       <li>
                         <span class="font-semibold text-indigo-900">Finds the author’s idea:</span>
-                        the scene is not really about the mirror’s magic or about breaking rules — it is about the danger of
+                        the scene is not really about the mirror’s magic or about Dumbledore’s wisdom — it is about the danger of
                         living inside a wish instead of a real life.
                       </li>
                       <li>

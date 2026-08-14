@@ -5,7 +5,9 @@
 //
 // Status bands (per docs/curriculum_design.md):
 //   Module 0: "Orientation Complete" or "Not Started" — never a score.
-//   Modules 1+: 9-10 Mastered · 7-8 Good · 5-6 Review · 0-4 Needs Practice.
+//   Modules 1+: 9-10 Strong on this set · 7-8 Getting there · 5-6 Review this one · 0-4 Needs practice.
+//   Deliberately not "Mastered": these are fixed 10-question sets, so a high
+//   score shows strength on THIS set, not proven transfer to an unseen passage.
 
 const STORAGE_KEY = "break250.progress.v1";
 
@@ -101,10 +103,10 @@ export function resetAll() {
  * @returns {{label: string, color: "emerald"|"blue"|"amber"|"rose"}}
  */
 export function statusFromScore(score) {
-  if (score >= 9) return { label: "Mastered", color: "emerald" };
-  if (score >= 7) return { label: "Good", color: "blue" };
-  if (score >= 5) return { label: "Review", color: "amber" };
-  return { label: "Needs Practice", color: "rose" };
+  if (score >= 9) return { label: "Strong on this set", color: "emerald" };
+  if (score >= 7) return { label: "Getting there", color: "blue" };
+  if (score >= 5) return { label: "Review this one", color: "amber" };
+  return { label: "Needs practice", color: "rose" };
 }
 
 /**

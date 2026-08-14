@@ -28,30 +28,80 @@ function escapeHtml(s) {
 function statusBand(score) {
   if (score >= 9) {
     return {
-      label: "Mastered",
+      label: "Strong on this set",
       color: "emerald",
-      blurb: "Excellent — you can name and use this tool. Pick another sub-concept next.",
+      blurb: "Excellent work on these 10. The real test is a passage you haven't seen — try this tool on a Lab text, then come back in a few days and retake this set.",
     };
   }
   if (score >= 7) {
     return {
-      label: "Good",
+      label: "Getting there",
       color: "blue",
       blurb: "Solid grasp. One more pass through this sub-concept will lock it in.",
     };
   }
   if (score >= 5) {
     return {
-      label: "Review",
+      label: "Review this one",
       color: "amber",
       blurb: "On the way. Reread the mini-lesson and try the quizzes again — pay extra attention to the per-choice feedback for each wrong answer.",
     };
   }
   return {
-    label: "Needs Practice",
+    label: "Needs practice",
     color: "rose",
     blurb: "Worth working through the mini-lesson again before retrying. Read the per-choice feedback for every wrong answer — that's where the teaching happens.",
   };
+}
+
+/**
+ * End-of-quiz review of every missed question: what you picked, why it was
+ * tempting, the correct answer, and why it wins. The per-choice feedback is
+ * the teaching engine, so a wrong answer should not scroll away unread.
+ *
+ * @param {Array<object>} quizzes
+ * @param {Array<string|null>} answers
+ * @returns {string} HTML
+ */
+function renderMissedReview(quizzes, answers) {
+  const missed = quizzes
+    .map((q, i) => ({ q, i, picked: answers[i] }))
+    .filter(({ q, picked }) => picked !== q.correctChoice);
+
+  if (missed.length === 0) {
+    return `<div class="rounded-lg border border-emerald-200 bg-emerald-50 p-4 text-sm text-emerald-900">
+      Nothing missed — every question correct.
+    </div>`;
+  }
+
+  const items = missed.map(({ q, i, picked }) => {
+    const correctLower = q.correctChoice.toLowerCase();
+    const pickedBlock = picked
+      ? `<div class="rounded-md border border-rose-200 bg-rose-50 p-3">
+           <div class="text-xs uppercase tracking-wide text-rose-700 mb-1">You picked ${escapeHtml(picked)}</div>
+           <div class="text-slate-700">${escapeHtml(q.choices[picked.toLowerCase()])}</div>
+           <div class="mt-2 text-slate-600">${escapeHtml(q.feedback[picked.toLowerCase()])}</div>
+         </div>`
+      : `<div class="rounded-md border border-slate-200 bg-slate-50 p-3 text-slate-600">No answer selected.</div>`;
+    const summary = q.prompt.length > 90 ? q.prompt.slice(0, 90) + "…" : q.prompt;
+    return `<details class="rounded-lg border border-slate-200 bg-white p-4">
+      <summary class="cursor-pointer text-sm font-medium">Q${i + 1}. ${escapeHtml(summary)}</summary>
+      <div class="mt-3 space-y-3 text-sm">
+        ${pickedBlock}
+        <div class="rounded-md border border-emerald-200 bg-emerald-50 p-3">
+          <div class="text-xs uppercase tracking-wide text-emerald-700 mb-1">Correct answer: ${escapeHtml(q.correctChoice)}</div>
+          <div class="text-slate-700">${escapeHtml(q.choices[correctLower])}</div>
+          <div class="mt-2 text-slate-600">${escapeHtml(q.feedback[correctLower])}</div>
+        </div>
+      </div>
+    </details>`;
+  }).join("");
+
+  return `<section class="space-y-3">
+    <h2 class="text-lg font-semibold tracking-tight">Questions you missed (${missed.length})</h2>
+    <p class="text-sm text-slate-600">This is where the learning happens — check what made each wrong answer tempting.</p>
+    ${items}
+  </section>`;
 }
 
 const BAND_CLASSES = {
@@ -126,10 +176,10 @@ export async function renderQuizPage(target, moduleId, fileBasename, next = null
         cls += " border-slate-200 bg-white hover:border-slate-400 cursor-pointer";
       }
 
-      const ariaPressed = submitted ? "" : `aria-pressed="${isSelected}"`;
-
+      // role="radio" + aria-checked matches the parent role="radiogroup".
+      // (aria-pressed is the toggle-button pattern and must not be mixed in.)
       return `
-        <button class="${cls}" data-letter="${letter}" ${ariaPressed} ${submitted ? "disabled" : ""}>
+        <button class="${cls}" data-letter="${letter}" role="radio" aria-checked="${isSelected}" ${submitted ? "disabled" : ""}>
           <span class="inline-block w-6 font-semibold">${letter}.</span>
           ${escapeHtml(text)}
         </button>
@@ -303,6 +353,7 @@ export async function renderQuizPage(target, moduleId, fileBasename, next = null
     // Persist the attempt before rendering — Phase 3 progress tracking.
     recordAttempt(moduleId, fileBasename, correctCount, quizzes.length);
     const prior = getProgress(moduleId, fileBasename);
+    const missedHtml = renderMissedReview(quizzes, session.answers);
 
     if (isModule0) {
       target.innerHTML = `
@@ -319,6 +370,8 @@ export async function renderQuizPage(target, moduleId, fileBasename, next = null
           <div class="rounded-lg border border-emerald-300 bg-emerald-50 p-4 text-sm text-emerald-900" role="status">
             ✓ All 10 recognition quizzes attempted. Module 0 is intentionally <strong>not scored</strong> — it's orientation, not mastery.
           </div>
+
+          ${missedHtml}
 
           <div class="flex flex-wrap gap-2 pt-2">
             <a href="#/learn/${escapeHtml(moduleId)}/${escapeHtml(fileBasename)}" class="rounded-md border border-slate-300 px-4 py-2 text-sm font-medium hover:border-slate-500">Reread orientation</a>
@@ -348,6 +401,8 @@ export async function renderQuizPage(target, moduleId, fileBasename, next = null
         </div>
 
         <div class="text-sm text-slate-600">${band.blurb}</div>
+
+        ${missedHtml}
 
         <div class="flex flex-wrap gap-2 pt-2">
           <a href="#/learn/${escapeHtml(moduleId)}/${escapeHtml(fileBasename)}" class="rounded-md border border-slate-300 px-4 py-2 text-sm font-medium hover:border-slate-500">Back to lesson</a>
