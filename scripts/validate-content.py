@@ -208,6 +208,22 @@ def validate_quiz(path: Path) -> None:
             if not row[col] or row[col] == "N/A":
                 raise ValidationError(path, f"row {idx}: required field '{col}' is empty or N/A")
 
+        # Feedback must stay paired with the choice it explains. Rewriting the
+        # choices without re-pairing the feedback silently tells a student who
+        # answered correctly that they were wrong, so it must fail the build.
+        marked = [
+            L for L in "ABCD"
+            if row[f"feedback_{L.lower()}"].strip().lower().startswith("correct")
+        ]
+        key = row["correct_choice"]
+        if marked != [key]:
+            raise ValidationError(
+                path,
+                f"row {idx}: correct_choice is {key}, but the feedback beginning "
+                f"'Correct' is on {marked or 'no choice'}. Feedback appears "
+                f"misaligned with the choices.",
+            )
+
 
 def validate_lab(path: Path) -> None:
     try:
